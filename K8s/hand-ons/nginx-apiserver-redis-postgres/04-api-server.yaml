@@ -1,0 +1,204 @@
+# ---------------------------------------------------------------------------
+# api-server: stateless Deployment, 3 replicas spread one per node.
+#
+# Replace the image and the probe paths (/healthz, /readyz) with your own.
+# ---------------------------------------------------------------------------
+apiVersion: v1
+kind: Service
+metadata:
+  name: api-server
+  namespace: demo
+  labels:
+    app.kubernetes.io/name: api-server
+spec:
+  type: ClusterIP        # only nginx should reach this, never the outside world
+  selector:
+    app.kubernetes.io/name: api-server
+  ports:
+    - name: http
+      port: 8080
+      targetPort: http
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api-server
+  namespace: demo
+  labels:
+    app.kubernetes.io/name: api-server
+    app.kubernetes.io/component: backend
+spec:
+  replicas: 3
+  revisionHistoryLimit: 5
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0     # with 3 nodes and 3 replicas, surge needs headroom
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: api-server
+  template:
+    metadata:
+      labels:
+        app.kubernetes.io/name: api-server
+        app.kubernetes.io/component: backend
+    spec:
+      terminationGracePeriodSeconds: 45
+      securityContext:
+        runAsNonRoot: true
+        runAsUser: 10001
+        runAsGroup: 10001
+        fsGroup: 10001
+        seccompProfile:
+          type: RuntimeDefault
+      # One replica per node. maxSkew 1 + DoNotSchedule on a 3-node cluster
+      # gives exactly 1/1/1; a 4th replica would stay Pending until you add a
+      # node, so switch to ScheduleAnyway if you plan to scale past node count.
+      topologySpreadConstraints:
+        - maxSkew: 1
+          topologyKey: kubernetes.io/hostname
+          whenUnsatisfiable: DoNotSchedule
+          labelSelector:
+            matchLabels:
+              app.kubernetes.io/name: api-server
+      initContainers:
+        # Cheap ordering guard so the app doesn't crash-loop through its first
+        # 30 seconds while Postgres finishes initdb.
+        - name: wait-for-postgres
+          image: busybox:1.36
+          command:
+            - sh
+            - -c
+            - |
+              until nc -z postgres.demo.svc.cluster.local 5432; do
+                echo "waiting for postgres..."; sleep 2
+              done
+              echo "postgres reachable"
+          resources:
+            requests:
+              cpu: 10m
+              memory: 16Mi
+            limits:
+              memory: 32Mi
+          securityContext:
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: true
+            capabilities:
+              drop: ["ALL"]
+      containers:
+        - name: api-server
+          image: ghcr.io/example/api-server:1.0.0   # <-- CHANGE ME
+          imagePullPolicy: IfNotPresent
+          ports:
+            - name: http
+              containerPort: 8080
+          envFrom:
+            - configMapRef:
+                name: app-config
+          env:
+            - name: DATABASE_URL
+              valueFrom:
+                secretKeyRef:
+                  name: postgres-credentials
+                  key: DATABASE_URL
+            - name: REDIS_URL
+              valueFrom:
+                secretKeyRef:
+                  name: redis-credentials
+                  key: REDIS_URL
+            - name: POD_NAME
+              valueFrom:
+                fieldRef:
+                  fieldPath: metadata.name
+            - name: NODE_NAME
+              valueFrom:
+                fieldRef:
+                  fieldPath: spec.nodeName
+          resources:
+            requests:
+              cpu: 100m
+              memory: 128Mi
+            limits:
+              cpu: "1"
+              memory: 512Mi
+          startupProbe:
+            httpGet:
+              path: /healthz
+              port: http
+            periodSeconds: 3
+            failureThreshold: 30      # ~90s to boot before we give up
+          readinessProbe:
+            # Should check DB and Redis connectivity: this is what pulls a pod
+            # out of the Service when a dependency is down.
+            httpGet:
+              path: /readyz
+              port: http
+            periodSeconds: 10
+            timeoutSeconds: 3
+            failureThreshold: 3
+          livenessProbe:
+            # Should NOT check dependencies — otherwise a Postgres blip restarts
+            # every replica at once.
+            httpGet:
+              path: /healthz
+              port: http
+            periodSeconds: 20
+            timeoutSeconds: 3
+            failureThreshold: 3
+          lifecycle:
+            preStop:
+              # Gives kube-proxy/nginx time to notice the endpoint is gone
+              # before the process starts refusing connections.
+              exec:
+                command: ["sh", "-c", "sleep 5"]
+          volumeMounts:
+            - name: tmp
+              mountPath: /tmp
+          securityContext:
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: true
+            capabilities:
+              drop: ["ALL"]
+      volumes:
+        - name: tmp
+          emptyDir: {}
+---
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: api-server
+  namespace: demo
+spec:
+  minAvailable: 2
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: api-server
+---
+# Optional. Requires metrics-server in the cluster.
+#
+# IMPORTANT: to scale past 3 you must also change whenUnsatisfiable above from
+# DoNotSchedule to ScheduleAnyway, otherwise replicas 4+ sit Pending forever
+# because no node can accept a 2nd pod without breaking maxSkew: 1.
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: api-server
+  namespace: demo
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: api-server
+  minReplicas: 3
+  maxReplicas: 9
+  behavior:
+    scaleDown:
+      stabilizationWindowSeconds: 300   # don't flap on spiky traffic
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target:
+          type: Utilization
+          averageUtilization: 70

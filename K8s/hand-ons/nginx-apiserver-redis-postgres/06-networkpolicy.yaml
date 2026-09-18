@@ -1,0 +1,134 @@
+# ---------------------------------------------------------------------------
+# NetworkPolicies that make the diagram's arrows actually enforced, rather than
+# just documentation. Without these, any pod in the cluster can open a socket
+# straight to Postgres.
+#
+# REQUIRES A CNI THAT IMPLEMENTS NetworkPolicy: Calico, Cilium, Antrea, Weave.
+# Under flannel these objects are accepted by the API server and silently
+# ignored. Verify with a real connection test, not with `kubectl get netpol`.
+# ---------------------------------------------------------------------------
+
+# 1. Default deny all ingress in the namespace, then allow explicitly below.
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: default-deny-ingress
+  namespace: demo
+spec:
+  podSelector: {}
+  policyTypes: ["Ingress"]
+---
+# 2. nginx accepts traffic from outside the cluster (the LoadBalancer).
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: nginx-allow-external
+  namespace: demo
+spec:
+  podSelector:
+    matchLabels:
+      app.kubernetes.io/name: nginx
+  policyTypes: ["Ingress"]
+  ingress:
+    - ports:
+        - protocol: TCP
+          port: 8080
+      # No `from`: accepts from anywhere, which is the point of an edge proxy.
+---
+# 3. api-server accepts traffic only from nginx.
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: api-allow-nginx
+  namespace: demo
+spec:
+  podSelector:
+    matchLabels:
+      app.kubernetes.io/name: api-server
+  policyTypes: ["Ingress"]
+  ingress:
+    - from:
+        - podSelector:
+            matchLabels:
+              app.kubernetes.io/name: nginx
+      ports:
+        - protocol: TCP
+          port: 8080
+---
+# 4. Postgres accepts traffic only from api-server.
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: postgres-allow-api
+  namespace: demo
+spec:
+  podSelector:
+    matchLabels:
+      app.kubernetes.io/name: postgres
+  policyTypes: ["Ingress"]
+  ingress:
+    - from:
+        - podSelector:
+            matchLabels:
+              app.kubernetes.io/name: api-server
+      ports:
+        - protocol: TCP
+          port: 5432
+---
+# 5. Redis accepts traffic only from api-server.
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: redis-allow-api
+  namespace: demo
+spec:
+  podSelector:
+    matchLabels:
+      app.kubernetes.io/name: redis
+  policyTypes: ["Ingress"]
+  ingress:
+    - from:
+        - podSelector:
+            matchLabels:
+              app.kubernetes.io/name: api-server
+      ports:
+        - protocol: TCP
+          port: 6379
+---
+# 6. Egress rules for api-server: DNS, Postgres, Redis, and nothing else.
+#    Drop this object if your app needs to call third-party HTTPS APIs, or add
+#    a rule for 443.
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: api-egress
+  namespace: demo
+spec:
+  podSelector:
+    matchLabels:
+      app.kubernetes.io/name: api-server
+  policyTypes: ["Egress"]
+  egress:
+    - to:
+        - namespaceSelector:
+            matchLabels:
+              kubernetes.io/metadata.name: kube-system
+      ports:
+        - protocol: UDP
+          port: 53
+        - protocol: TCP
+          port: 53
+    - to:
+        - podSelector:
+            matchLabels:
+              app.kubernetes.io/name: postgres
+      ports:
+        - protocol: TCP
+          port: 5432
+    - to:
+        - podSelector:
+            matchLabels:
+              app.kubernetes.io/name: redis
+      ports:
+        - protocol: TCP
+          port: 6379

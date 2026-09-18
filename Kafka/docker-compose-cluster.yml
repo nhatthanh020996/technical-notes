@@ -1,0 +1,114 @@
+# Copyright Broadcom, Inc. All Rights Reserved.
+# SPDX-License-Identifier: APACHE-2.0
+
+services:
+  kafka-0:
+    image: docker.io/bitnami/kafka:4.3
+    ports:
+      - "9095:9095"
+    environment:
+      # KRaft settings
+      - KAFKA_CFG_NODE_ID=0
+      - KAFKA_CFG_PROCESS_ROLES=controller,broker
+      - KAFKA_CFG_CONTROLLER_QUORUM_BOOTSTRAP_SERVERS=kafka-0:9093,kafka-1:9093,kafka-2:9093
+      - KAFKA_INITIAL_CONTROLLERS=0@kafka-0:9093:bcdefghijklmnopqrstuvw,1@kafka-1:9093:cdefghijklmnopqrstuvwx,2@kafka-2:9093:defghijklmnopqrstuvwxy
+      - KAFKA_KRAFT_CLUSTER_ID=abcdefghijklmnopqrstuv
+      # Listeners
+      - KAFKA_CFG_LISTENERS=INTERNAL://:9092,EXTERNAL://:9095,CONTROLLER://:9093
+      - KAFKA_CFG_ADVERTISED_LISTENERS=INTERNAL://kafka-0:9092,EXTERNAL://103.75.186.139:9095
+      - KAFKA_CFG_LISTENER_SECURITY_PROTOCOL_MAP=INTERNAL:SASL_PLAINTEXT,EXTERNAL:SASL_SSL,CONTROLLER:PLAINTEXT
+      - KAFKA_CFG_CONTROLLER_LISTENER_NAMES=CONTROLLER
+      - KAFKA_CFG_INTER_BROKER_LISTENER_NAME=INTERNAL
+      # SASL (both INTERNAL and EXTERNAL require login; EXTERNAL adds SSL on top)
+      - KAFKA_CFG_SASL_ENABLED_MECHANISMS=PLAIN
+      - KAFKA_CLIENT_USERS=${KAFKA_CLIENT_USERS}
+      - KAFKA_CLIENT_PASSWORDS=${KAFKA_CLIENT_PASSWORDS}
+      - KAFKA_CLIENT_LISTENER_NAME=EXTERNAL
+      # TLS (shared by every SSL/SASL_SSL listener - here just EXTERNAL)
+      - KAFKA_TLS_TYPE=JKS
+      - KAFKA_CERTIFICATE_PASSWORD=${KAFKA_CERTIFICATE_PASSWORD}
+      - KAFKA_TLS_CLIENT_AUTH=none
+      # Clustering
+      - KAFKA_CFG_OFFSETS_TOPIC_REPLICATION_FACTOR=3
+      - KAFKA_CFG_TRANSACTION_STATE_LOG_REPLICATION_FACTOR=3
+      - KAFKA_CFG_TRANSACTION_STATE_LOG_MIN_ISR=2
+    volumes:
+      - kafka_0_data:/bitnami/kafka
+      - ./certs/kafka-0.keystore.jks:/opt/bitnami/kafka/config/certs/kafka.keystore.jks:ro
+      - ./certs/kafka-0.truststore.jks:/opt/bitnami/kafka/config/certs/kafka.truststore.jks:ro
+  kafka-1:
+    image: docker.io/bitnami/kafka:4.3
+    ports:
+      - "9096:9096"
+    environment:
+      # KRaft settings
+      - KAFKA_CFG_NODE_ID=1
+      - KAFKA_CFG_PROCESS_ROLES=controller,broker
+      - KAFKA_CFG_CONTROLLER_QUORUM_BOOTSTRAP_SERVERS=kafka-0:9093,kafka-1:9093,kafka-2:9093
+      - KAFKA_INITIAL_CONTROLLERS=0@kafka-0:9093:bcdefghijklmnopqrstuvw,1@kafka-1:9093:cdefghijklmnopqrstuvwx,2@kafka-2:9093:defghijklmnopqrstuvwxy
+      - KAFKA_KRAFT_CLUSTER_ID=abcdefghijklmnopqrstuv
+      # Listeners
+      - KAFKA_CFG_LISTENERS=INTERNAL://:9092,EXTERNAL://:9096,CONTROLLER://:9093
+      - KAFKA_CFG_ADVERTISED_LISTENERS=INTERNAL://kafka-1:9092,EXTERNAL://103.75.186.139:9096
+      - KAFKA_CFG_LISTENER_SECURITY_PROTOCOL_MAP=INTERNAL:SASL_PLAINTEXT,EXTERNAL:SASL_SSL,CONTROLLER:PLAINTEXT
+      - KAFKA_CFG_CONTROLLER_LISTENER_NAMES=CONTROLLER
+      - KAFKA_CFG_INTER_BROKER_LISTENER_NAME=INTERNAL
+      # SASL (both INTERNAL and EXTERNAL require login; EXTERNAL adds SSL on top)
+      - KAFKA_CFG_SASL_ENABLED_MECHANISMS=PLAIN
+      - KAFKA_CLIENT_USERS=${KAFKA_CLIENT_USERS}
+      - KAFKA_CLIENT_PASSWORDS=${KAFKA_CLIENT_PASSWORDS}
+      - KAFKA_CLIENT_LISTENER_NAME=EXTERNAL
+      # TLS (shared by every SSL/SASL_SSL listener - here just EXTERNAL)
+      - KAFKA_TLS_TYPE=JKS
+      - KAFKA_CERTIFICATE_PASSWORD=${KAFKA_CERTIFICATE_PASSWORD}
+      - KAFKA_TLS_CLIENT_AUTH=none
+      # Clustering
+      - KAFKA_CFG_OFFSETS_TOPIC_REPLICATION_FACTOR=3
+      - KAFKA_CFG_TRANSACTION_STATE_LOG_REPLICATION_FACTOR=3
+      - KAFKA_CFG_TRANSACTION_STATE_LOG_MIN_ISR=2
+    volumes:
+      - kafka_1_data:/bitnami/kafka
+      - ./certs/kafka-1.keystore.jks:/opt/bitnami/kafka/config/certs/kafka.keystore.jks:ro
+      - ./certs/kafka-1.truststore.jks:/opt/bitnami/kafka/config/certs/kafka.truststore.jks:ro
+  kafka-2:
+    image: docker.io/bitnami/kafka:4.3
+    ports:
+      - "9097:9097"
+    environment:
+      # KRaft settings
+      - KAFKA_CFG_NODE_ID=2
+      - KAFKA_CFG_PROCESS_ROLES=controller,broker
+      - KAFKA_CFG_CONTROLLER_QUORUM_BOOTSTRAP_SERVERS=kafka-0:9093,kafka-1:9093,kafka-2:9093
+      - KAFKA_INITIAL_CONTROLLERS=0@kafka-0:9093:bcdefghijklmnopqrstuvw,1@kafka-1:9093:cdefghijklmnopqrstuvwx,2@kafka-2:9093:defghijklmnopqrstuvwxy
+      - KAFKA_KRAFT_CLUSTER_ID=abcdefghijklmnopqrstuv
+      # Listeners
+      - KAFKA_CFG_LISTENERS=INTERNAL://:9092,EXTERNAL://:9097,CONTROLLER://:9093
+      - KAFKA_CFG_ADVERTISED_LISTENERS=INTERNAL://kafka-2:9092,EXTERNAL://103.75.186.139:9097
+      - KAFKA_CFG_LISTENER_SECURITY_PROTOCOL_MAP=INTERNAL:SASL_PLAINTEXT,EXTERNAL:SASL_SSL,CONTROLLER:PLAINTEXT
+      - KAFKA_CFG_CONTROLLER_LISTENER_NAMES=CONTROLLER
+      - KAFKA_CFG_INTER_BROKER_LISTENER_NAME=INTERNAL
+      # SASL (both INTERNAL and EXTERNAL require login; EXTERNAL adds SSL on top)
+      - KAFKA_CFG_SASL_ENABLED_MECHANISMS=PLAIN
+      - KAFKA_CLIENT_USERS=${KAFKA_CLIENT_USERS}
+      - KAFKA_CLIENT_PASSWORDS=${KAFKA_CLIENT_PASSWORDS}
+      - KAFKA_CLIENT_LISTENER_NAME=EXTERNAL
+      # TLS (shared by every SSL/SASL_SSL listener - here just EXTERNAL)
+      - KAFKA_TLS_TYPE=JKS
+      - KAFKA_CERTIFICATE_PASSWORD=${KAFKA_CERTIFICATE_PASSWORD}
+      - KAFKA_TLS_CLIENT_AUTH=none
+      # Clustering
+      - KAFKA_CFG_OFFSETS_TOPIC_REPLICATION_FACTOR=3
+      - KAFKA_CFG_TRANSACTION_STATE_LOG_REPLICATION_FACTOR=3
+      - KAFKA_CFG_TRANSACTION_STATE_LOG_MIN_ISR=2
+    volumes:
+      - kafka_2_data:/bitnami/kafka
+      - ./certs/kafka-2.keystore.jks:/opt/bitnami/kafka/config/certs/kafka.keystore.jks:ro
+      - ./certs/kafka-2.truststore.jks:/opt/bitnami/kafka/config/certs/kafka.truststore.jks:ro
+
+volumes:
+  kafka_0_data:
+    driver: local
+  kafka_1_data:
+    driver: local
+  kafka_2_data:
+    driver: local

@@ -1,0 +1,194 @@
+# ---------------------------------------------------------------------------
+# nginx: the public edge, reverse-proxying to api-server.
+#
+# Uses nginxinc/nginx-unprivileged, which listens on 8080 as uid 101 and needs
+# no root. The official nginx image wants to start as root to write its pidfile.
+# ---------------------------------------------------------------------------
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: nginx-config
+  namespace: demo
+data:
+  default.conf: |
+    # Resolve the upstream at request time instead of only at nginx startup.
+    # Open-source nginx resolves names in an `upstream` block once, at boot, and
+    # then caches forever — so a rescheduled api-server pod would black-hole
+    # traffic. Assigning to a variable and using it in proxy_pass forces nginx
+    # to go back to the resolver every `valid=` interval.
+    resolver kube-dns.kube-system.svc.cluster.local valid=10s ipv6=off;
+
+    server {
+        listen 8080;
+        server_name _;
+
+        client_max_body_size 10m;
+        client_body_timeout 30s;
+
+        # Don't advertise the exact version to the internet.
+        server_tokens off;
+
+        gzip on;
+        gzip_types application/json text/plain text/css application/javascript;
+        gzip_min_length 1024;
+
+        access_log /dev/stdout;
+        error_log  /dev/stderr warn;
+
+        # nginx's own liveness/readiness — answered locally, never proxied.
+        location = /nginx-health {
+            access_log off;
+            return 200 "ok\n";
+            add_header Content-Type text/plain;
+        }
+
+        location / {
+            set $api_upstream api-server.demo.svc.cluster.local;
+
+            # $request_uri is required: when proxy_pass contains a variable,
+            # nginx stops appending the matched URI automatically.
+            proxy_pass http://$api_upstream:8080$request_uri;
+
+            proxy_http_version 1.1;
+            proxy_set_header Connection "";
+            proxy_set_header Host              $host;
+            proxy_set_header X-Real-IP         $remote_addr;
+            proxy_set_header X-Forwarded-For   $proxy_add_x_forwarded_for;
+            proxy_set_header X-Forwarded-Proto $scheme;
+
+            proxy_connect_timeout 5s;
+            proxy_send_timeout    60s;
+            proxy_read_timeout    60s;
+
+            # Retry the next healthy pod on connection-level failures. Note
+            # non_idempotent is intentionally NOT set, so POST/PATCH are never
+            # silently replayed.
+            proxy_next_upstream error timeout http_502 http_503 http_504;
+            proxy_next_upstream_tries 2;
+        }
+    }
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: nginx
+  namespace: demo
+  labels:
+    app.kubernetes.io/name: nginx
+spec:
+  # On a cloud provider this provisions an external LB. On bare metal without
+  # MetalLB it will sit in <pending> — switch type to NodePort in that case.
+  type: LoadBalancer
+  selector:
+    app.kubernetes.io/name: nginx
+  ports:
+    - name: http
+      port: 80
+      targetPort: http
+      protocol: TCP
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx
+  namespace: demo
+  labels:
+    app.kubernetes.io/name: nginx
+    app.kubernetes.io/component: edge
+spec:
+  replicas: 3
+  revisionHistoryLimit: 5
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: nginx
+  template:
+    metadata:
+      labels:
+        app.kubernetes.io/name: nginx
+        app.kubernetes.io/component: edge
+      annotations:
+        checksum/config: "replace-me-on-config-change"
+    spec:
+      terminationGracePeriodSeconds: 30
+      securityContext:
+        runAsNonRoot: true
+        runAsUser: 101           # 'nginx' uid in the unprivileged image
+        runAsGroup: 101
+        seccompProfile:
+          type: RuntimeDefault
+      topologySpreadConstraints:
+        - maxSkew: 1
+          topologyKey: kubernetes.io/hostname
+          whenUnsatisfiable: DoNotSchedule
+          labelSelector:
+            matchLabels:
+              app.kubernetes.io/name: nginx
+      containers:
+        - name: nginx
+          image: nginxinc/nginx-unprivileged:1.27-alpine
+          imagePullPolicy: IfNotPresent
+          ports:
+            - name: http
+              containerPort: 8080
+          resources:
+            requests:
+              cpu: 50m
+              memory: 64Mi
+            limits:
+              cpu: 500m
+              memory: 128Mi
+          volumeMounts:
+            - name: config
+              mountPath: /etc/nginx/conf.d
+              readOnly: true
+            # readOnlyRootFilesystem means every path nginx writes to needs a
+            # writable volume of its own.
+            - name: cache
+              mountPath: /var/cache/nginx
+            - name: run
+              mountPath: /tmp
+          readinessProbe:
+            httpGet:
+              path: /nginx-health
+              port: http
+            initialDelaySeconds: 3
+            periodSeconds: 10
+          livenessProbe:
+            httpGet:
+              path: /nginx-health
+              port: http
+            initialDelaySeconds: 10
+            periodSeconds: 20
+          lifecycle:
+            preStop:
+              exec:
+                command: ["sh", "-c", "sleep 5 && nginx -s quit"]
+          securityContext:
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: true
+            capabilities:
+              drop: ["ALL"]
+      volumes:
+        - name: config
+          configMap:
+            name: nginx-config
+        - name: cache
+          emptyDir: {}
+        - name: run
+          emptyDir: {}
+---
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: nginx
+  namespace: demo
+spec:
+  minAvailable: 2
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: nginx

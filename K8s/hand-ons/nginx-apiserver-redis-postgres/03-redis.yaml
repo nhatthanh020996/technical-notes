@@ -1,0 +1,158 @@
+# ---------------------------------------------------------------------------
+# Redis: single replica StatefulSet with AOF persistence and password auth.
+# Suitable as a cache or session/queue store. For HA you'd want Redis Sentinel
+# or Cluster, which is a different topology (see README).
+# ---------------------------------------------------------------------------
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: redis-config
+  namespace: demo
+data:
+  redis.conf: |
+    bind 0.0.0.0
+    port 6379
+    protected-mode yes
+
+    # Persistence: AOF with 1s fsync. Drop both appendonly and save lines if
+    # you are using Redis purely as a throwaway cache — it removes the disk
+    # write path entirely and you can then use an emptyDir volume.
+    appendonly yes
+    appendfsync everysec
+    dir /data
+    save 900 1
+    save 300 10
+
+    # Cap memory below the container limit so Redis evicts instead of getting
+    # OOM-killed by the kernel. Keep this ~75-80% of resources.limits.memory.
+    maxmemory 400mb
+    maxmemory-policy allkeys-lru
+
+    timeout 300
+    tcp-keepalive 60
+
+    # Block commands that make a shared cache easy to wreck by accident.
+    rename-command FLUSHALL ""
+    rename-command FLUSHDB ""
+    rename-command CONFIG ""
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: redis
+  namespace: demo
+  labels:
+    app.kubernetes.io/name: redis
+spec:
+  clusterIP: None
+  selector:
+    app.kubernetes.io/name: redis
+  ports:
+    - name: redis
+      port: 6379
+      targetPort: redis
+---
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: redis
+  namespace: demo
+  labels:
+    app.kubernetes.io/name: redis
+    app.kubernetes.io/component: cache
+spec:
+  serviceName: redis
+  replicas: 1
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: redis
+  template:
+    metadata:
+      labels:
+        app.kubernetes.io/name: redis
+        app.kubernetes.io/component: cache
+      annotations:
+        # Forces a rollout when redis.conf changes. Update this by hand, or let
+        # Kustomize's configMapGenerator hash suffix handle it for you.
+        checksum/config: "replace-me-on-config-change"
+    spec:
+      terminationGracePeriodSeconds: 30
+      securityContext:
+        runAsUser: 999           # 'redis' uid in the official image
+        runAsGroup: 999
+        fsGroup: 999
+        runAsNonRoot: true
+      affinity:
+        podAntiAffinity:
+          preferredDuringSchedulingIgnoredDuringExecution:
+            - weight: 100
+              podAffinityTerm:
+                topologyKey: kubernetes.io/hostname
+                labelSelector:
+                  matchLabels:
+                    app.kubernetes.io/name: postgres
+      containers:
+        - name: redis
+          image: redis:7.4-alpine
+          imagePullPolicy: IfNotPresent
+          # requirepass is passed as an arg so the password stays out of the
+          # ConfigMap. It is visible in this container's own /proc, which is an
+          # accepted tradeoff; the alternative is an initContainer that renders
+          # the config file from the Secret.
+          command:
+            - sh
+            - -c
+            - exec redis-server /etc/redis/redis.conf --requirepass "$REDIS_PASSWORD"
+          ports:
+            - name: redis
+              containerPort: 6379
+          env:
+            - name: REDIS_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: redis-credentials
+                  key: REDIS_PASSWORD
+          resources:
+            requests:
+              cpu: 100m
+              memory: 256Mi
+            limits:
+              memory: 512Mi
+          volumeMounts:
+            - name: config
+              mountPath: /etc/redis
+              readOnly: true
+            - name: data
+              mountPath: /data
+          readinessProbe:
+            exec:
+              command:
+                - sh
+                - -c
+                - redis-cli -a "$REDIS_PASSWORD" --no-auth-warning ping | grep -q PONG
+            initialDelaySeconds: 5
+            periodSeconds: 10
+            timeoutSeconds: 3
+          livenessProbe:
+            tcpSocket:
+              port: redis
+            initialDelaySeconds: 15
+            periodSeconds: 20
+            failureThreshold: 5
+          securityContext:
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: true
+            capabilities:
+              drop: ["ALL"]
+      volumes:
+        - name: config
+          configMap:
+            name: redis-config
+  volumeClaimTemplates:
+    - metadata:
+        name: data
+      spec:
+        accessModes: ["ReadWriteOnce"]
+        resources:
+          requests:
+            storage: 5Gi
