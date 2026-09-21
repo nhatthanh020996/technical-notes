@@ -6,6 +6,15 @@ Tài liệu này là phần **thực hành kiểm chứng** cho hai bài lý thu
 
 Toàn bộ lệnh dưới đây chỉ **quan sát** (đọc trạng thái mạng, bắt gói), không thay đổi cấu hình hệ thống — an toàn để chạy trên máy Ubuntu cá nhân. Một vài lệnh xóa ARP cache tạm thời (tự phục hồi ngay sau khi ping) và cần quyền `sudo`.
 
+### Mục lục
+
+1. [Chuẩn bị: xác định interface và gateway thật](#chuẩn-bị-xác-định-interface-và-gateway-thật)
+2. [Kịch bản 1 — Bắt trực tiếp ARP Request/Reply](#kịch-bản-1--bắt-trực-tiếp-arp-requestreply)
+3. [Kịch bản 2 — Xác nhận EtherType trong Ethernet Frame](#kịch-bản-2--xác-nhận-ethertype-trong-ethernet-frame)
+4. [Kịch bản 3 — Chứng minh PAT đổi Source IP:Port khi ra internet](#kịch-bản-3--chứng-minh-pat-đổi-source-ipport-khi-ra-internet)
+5. [Kịch bản 4 (nâng cao, tùy chọn) — Xem NAT table thật nếu có Docker](#kịch-bản-4-nâng-cao-tùy-chọn--xem-nat-table-thật-nếu-có-docker)
+6. [Ghi chú về nguồn kiến thức](#ghi-chú-về-nguồn-kiến-thức)
+
 ## Chuẩn bị: xác định interface và gateway thật
 
 Trước khi chạy bất kỳ kịch bản nào, xác định thông tin mạng thật của máy bạn — vì các giá trị `192.168.1.x` trong ARP.md/NAT.md chỉ là ví dụ minh họa:

@@ -2,6 +2,17 @@
 
 Các bài trước ([ARP.md](ARP.md), [NAT.md](NAT.md)) giải thích cách một packet đi trong **local network** và cách nó thoát ra internet qua NAT. Bài này zoom ra một tầm nhìn lớn hơn: **sau khi thoát khỏi router nhà bạn, packet đi qua một mạng lưới router có cấu trúc như thế nào để đến được đích ở bất kỳ đâu trên thế giới?**
 
+### Mục lục
+
+1. [Bài toán đặt ra](#bài-toán-đặt-ra)
+2. [Không có chuyện 2 router bất kỳ nối trực tiếp nhau](#không-có-chuyện-2-router-bất-kỳ-nối-trực-tiếp-nhau)
+3. [Vậy 2 router xa nhau "nói chuyện" bằng cách nào?](#vậy-2-router-xa-nhau-nói-chuyện-bằng-cách-nào)
+4. [Internet không phải là cây](#internet-không-phải-là-cây)
+5. [Liên kết chéo (redundant link / cross-link)](#liên-kết-chéo-redundant-link--cross-link)
+6. [Mô hình phân loại 3-Tier](#mô-hình-phân-loại-3-tier)
+7. [Tóm tắt toàn cảnh](#tóm-tắt-toàn-cảnh)
+8. [Liên hệ với các bài trước](#liên-hệ-với-các-bài-trước)
+
 ## Bài toán đặt ra
 
 > **Câu hỏi:** Internet có hàng chục nghìn mạng (ISP, doanh nghiệp, chính phủ...) và hàng tỷ thiết bị. Liệu 2 router bất kỳ trên Internet có liên kết trực tiếp với nhau không? Nếu không, mạng lưới này được tổ chức theo dạng gì — cây (tree) hay dạng khác?

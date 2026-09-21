@@ -2,6 +2,13 @@ Hãy tưởng tượng **CORS (Cross-Origin Resource Sharing)** giống như m�
 
 Dưới đây là cách nó vận hành từ con số 0:
 
+### Mục lục
+
+1. [Khái niệm "Origin" (Nguồn) là gì?](#1-khái-niệm-origin-nguồn-là-gì)
+2. [Kẻ gác cổng: Same-Origin Policy (SOP)](#2-kẻ-gác-cổng-same-origin-policy-sop)
+3. [Cơ chế hoạt động của CORS](#3-cơ-chế-hoạt-động-của-cors)
+4. [Tại sao bạn hay bị lỗi CORS?](#4-tại-sao-bạn-hay-bị-lỗi-cors)
+
 ### 1. Khái niệm "Origin" (Nguồn) là gì?
 
 Trước khi hiểu CORS, bạn phải biết "Origin" là cái gì. Một Origin được cấu thành từ 3 thành phần: **Giao thức (Protocol)** + **Tên miền (Domain)** + **Cổng (Port)**.

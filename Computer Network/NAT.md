@@ -1,5 +1,19 @@
 # NAT: Khi Destination Nằm Ngoài Internet
 
+### Mục lục
+
+1. [Bài toán đặt ra](#bài-toán-đặt-ra)
+2. [PAT là gì?](#pat-là-gì)
+3. [Toàn cảnh luồng đi](#toàn-cảnh-luồng-đi)
+4. [Vì sao cần NAT](#vì-sao-cần-nat)
+5. [Bước 1 — Gói tin đi ra (Outbound)](#bước-1--gói-tin-đi-ra-outbound)
+6. [Bước 2 — Server nhận gói và trả lời](#bước-2--server-nhận-gói-và-trả-lời)
+7. [Bước 3 — Gói tin quay về (Inbound), tra NAT table](#bước-3--gói-tin-quay-về-inbound-tra-nat-table)
+8. [Vì sao cần cả Port, không chỉ IP?](#vì-sao-cần-cả-port-không-chỉ-ip)
+9. [Các kiểu NAT (theo mức độ nghiêm ngặt khi lọc inbound)](#các-kiểu-nat-theo-mức-độ-nghiêm-ngặt-khi-lọc-inbound)
+10. [Port Forwarding và UPnP — khi cần inbound chủ động](#port-forwarding-và-upnp--khi-cần-inbound-chủ-động)
+11. [Một số điểm quan trọng](#một-số-điểm-quan-trọng)
+
 ## Bài toán đặt ra
 
 Ở bài [ARP: Từ Packet Đến Ethernet Frame](ARP.md), ta đã giải thích cách một packet đi từ LaptopA (`192.168.1.10`) đến LaptopB (`192.168.1.14`) — cả hai đều nằm trong cùng một local network.

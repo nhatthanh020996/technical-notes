@@ -1,5 +1,14 @@
 # ARP: Từ Packet Đến Ethernet Frame
 
+### Mục lục
+
+1. [Bài toán đặt ra](#bài-toán-đặt-ra)
+2. [Thông tin ban đầu](#thông-tin-ban-đầu)
+3. [Bước 1 — Packet hình thành tại Network Layer](#bước-1--packet-hình-thành-tại-network-layer)
+4. [Bước 2 — Tra ARP table, cần Destination MAC](#bước-2--tra-arp-table-cần-destination-mac)
+5. [Bước 3 — Đóng gói Ethernet Frame hoàn chỉnh](#bước-3--đóng-gói-ethernet-frame-hoàn-chỉnh)
+6. [Bước 4 — Truyền xuống Physical Layer](#bước-4--truyền-xuống-physical-layer)
+
 ## Bài toán đặt ra
 
 Giả sử chúng ta có một local network như hình vẽ sau, đây là một local network đơn giản và phổ biến trong một hộ gia đình hoặc doanh nghiệp vừa và nhỏ.
