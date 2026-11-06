@@ -1,0 +1,103 @@
+# Buffett & Munger on Mr. Market and Berkshire's Mispricings, Ignoring Macro Fears, Stocks vs Gold, and Buffett's Personal JPMorgan Purchase
+
+Source: https://www.youtube.com/watch?v=Azyocku3ncc
+
+> Note: The original YouTube title is "Warren Buffett: Own Cheap Stocks To Get Rich". It is somewhat misleading. Buffett does say that stocks selling "at silly prices from time to time" is how he and Munger got rich, but the clip is not a guide to owning cheap stocks. It covers Berkshire's own stock being over- and undervalued at times, Mr. Market from chapter 8 of *The Intelligent Investor*, the fact that he and Munger never discuss macro conditions when buying, why gold will lose to productive assets, and why Buffett bought JPMorgan for his personal account when he liked Wells Fargo more. The clip is from the **2012** Berkshire Hathaway annual meeting (high confidence). The clues: "we've run Berkshire now for 47 years" (since 1965); gold is "now at 1,600" and Berkshire "at 120,000"; Munger mentions the ages 88 and 81 (Munger was 88 and Buffett 81 in May 2012); there are "53 years" of partnership since they met in 1959; Buffett's CNBC remark about buying JPMorgan personally was made in 2012; and the questioners include "Cliff" (surname not given in the clip; the analyst panel only began in 2013, so he is probably not an analyst-panel member) and Andrew (Andrew Ross Sorkin).
+>
+> Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.
+
+---
+
+## Part 1: Berkshire's own mispricings and Mr. Market ([00:00](https://www.youtube.com/watch?v=Azyocku3ncc&t=0))
+
+*(The clip starts at the beginning of the answer; the question itself is not included.)*
+
+**Warren Buffett:** We've run Berkshire now for 47 years. There have been several times, oh, four or five times, when we thought it was significantly undervalued. We saw the price get cut in half at least four times, or roughly in half, in fairly short periods of time. And I would say this: if you run any business for a long period of time, there're going to be times when it's overvalued and sometimes when it's undervalued.
+
+Tom Murphy ran one of the most successful companies the world's ever seen, and in the early 1970s his stock was selling for about a third of what you could have sold the properties for. And, you know, Berkshire back in 2000, 2001, whenever it was that I wrote in the annual report that we were also going to repurchase shares, was selling at what I thought was a very low price, and we didn't get any repurchased.
+
+But the beauty of stocks is they do sell at silly prices from time to time. I mean, that's how Charlie and I have gotten rich. You know, Ben Graham writes about it in chapter eight of *The Intelligent Investor*. You know, chapters 8 and 20 are really all you need to [unclear: "do"] to get rich in this world. And chapter eight says that in the market you're going to have a partner named Mr. Market, and the beauty of him as your partner is that he's kind of a psychotic drunk, and he will do very weird things over time. And your job is to remember that he's there to serve you and not to advise you.
+
+And if you can keep that mental state, that all those thousands of prices that Mr. Market is offering you every day on every major business in the world, practically, that he is making lots of mistakes, and he makes them for all kinds of weird reasons, all you have to do is occasionally oblige him when he offers to either buy or sell from you at the same price on any given day, any given security. So it's built into the system that stocks get mispriced, and Berkshire has been no exception to that.
+
+I think Berkshire, generally speaking, has come closer to selling around its intrinsic value over a 47-year period or so than most large companies. If you look at the range from our high to low in a given year, and compare that to the range [of] high and low on 100 other stocks, I think you'll find that our stock fluctuates somewhat less than most, which is a good sign. But I will tell you, in the next 20 years Berkshire will someday be significantly overvalued, and at some point significantly undervalued. And that will be true for Coca-Cola and Wells Fargo and IBM and all of the other securities. I just don't know in which order and at which times.
+
+But the important thing is that you make your decisions based on what you think the business is worth. And if you make your buy and sell decisions based on what you think a business is worth, and you stick with businesses that you think you've got good reason to think you can value, you simply have to do well in stocks.
+
+The stock market is the most obliging money-making place in the world, because you don't have to do anything. You know, you sit there with thousands of businesses being priced at the same price for the buyer and the seller, and it changes every day, and you've got lots of information about most of those businesses, and you don't have to do anything, you know. Compare that to any other investment alternative you've got. I mean, you can't do that with farms. If you own a farm, and the guy has the farm next to you, and you kind of like to buy them out or something, he's not going to name a price every day at which he'll buy your farm or sell you his farm. But you can do that with, you know, Berkshire Hathaway or IBM. It's a marvelous game. The rules are stacked in your favor, if you don't turn those rules upside down and start behaving like the drunken psychotic instead of the guy that's there to take advantage [...]
+
+---
+
+## Part 2: Munger on buying to hold ([04:32](https://www.youtube.com/watch?v=Azyocku3ncc&t=272))
+
+**Warren Buffett:** Charlie?
+
+**Charlie Munger:** Well, what's interesting about this place is that I think we've had a lot more fun, and we got rich enough, so we bought businesses and stocks to hold instead of to resell. It's an enormously more constructive life. So as fast as you can work yourself into our position, the better off you'll be. And you should be very encouraged by the fact that [unclear: "he's only 88 and I'm only 81"; in May 2012 Munger was 88 and Buffett 81]. [It] just may take you a little while.
+
+---
+
+## Part 3: Systemic risk, 1942, 2008, and never discussing macro affairs ([05:06](https://www.youtube.com/watch?v=Azyocku3ncc&t=306))
+
+**Warren Buffett:** Cliff.
+
+**Questioner (Cliff):** I guess [unclear: "some"] along those lines, when you talk about the drunken market: have systemic risk fears ever caused you to pause in your eagerness to buy equities? You know, back in 2008, 2009, you know, [unclear: "per were you"], why weren't you more aggressive back then?
+
+**Warren Buffett:** Yeah, you'll probably find this interesting. Charlie and I, to my memory, in 53 years, I don't think we've ever had a discussion about buying a stock or a business, or selling a stock or a business, where we've talked about macro affairs. I mean, if we find a business that we think we understand, and we like the price at which it's being offered, we buy it, and it doesn't make any difference what the headlines are. It doesn't make any difference what the Federal Reserve is doing. It doesn't make any difference what's going on in Europe. We buy it.
+
+You know, there's always going to be good and bad news out there, and which gets emphasized the most, you know, depends on the moods of people, or newspaper editors, or whomever. And there's, you know, there's a ton of bad [...]
+
+I bought my first stock, you know, in June of '42. And, you know, what had happened? You know, we were losing the war, you know, until the Battle of Midway. I mean, so here was a country that [...] All my older friends had gone, you know, disappeared. We weren't going to make any kinds of goods that people wanted. We were going to build battleships and things to drop in the sea. And we were losing, you know. But stocks were cheap.
+
+And I wrote that article in October of 2008 in the Times, that I should have written a few months later. But in the end, I said we've just had a financial panic, and it's going to flow over into the economy, and, you know, you're going to read all kinds of bad news, but so what? You know, America's not going to go away, and stocks are cheap. You got to [...] We look to value, and we don't look to headlines at all. And we really don't. Everybody thinks that we sit around and talk about [...]
+
+**Charlie Munger:** *[speaker uncertain]* [unclear: "was not going to get any worse we would have spent but that's because we didn't know that"]
+
+**Warren Buffett:** Yeah, we know what we don't know. And we know we don't want to go broke. I mean, we start with that. And we know you can't go broke if you've got a fair amount of liquid reserves around and you don't have any near-term debts and so on. So our first rule is always to play tomorrow, no matter what happens. But if we've got that covered, and we can find things that are attractive, we buy.
+
+Well, Charlie has a little company called the Daily Journal Company, and he sat there with a whole lot of cash, and when 2008 came along, he went out and bought a few stocks. He won't tell me the names of them, but [...] And, you know, that was the time to use the money, not to sit on it. Was that the name of a stock?
+
+*[laughter]*
+
+Charlie, you don't get anything out of them?
+
+---
+
+## Part 4: Why Berkshire, stocks and farmland will beat gold ([08:26](https://www.youtube.com/watch?v=Azyocku3ncc&t=506))
+
+*(The questioner starts speaking just before this marker, at about 08:24.)*
+
+**Questioner (Neil Steinhoff, Phoenix):** Oh, hi. Thanks [...] Neil Steinhoff from Phoenix. Thanks for holding the meeting today. You mentioned a while ago that you're concerned about you and Charlie exposing yourself. Well, I for one am glad that you're not doing that. Since 1999, the Berkshire Hathaway stock has [unclear: "reite"] gone up appreciably, whereas gold has gone up multiple times. I don't own your stock for the glamour. I want to earn money. What happened?
+
+**Warren Buffett:** Well, I would say this: when we took over Berkshire, gold was at $20 and Berkshire was at 15. So gold is now at 1,600, and Berkshire is at 120,000. So you can pick different starting periods. Obviously, if you pick anything that's gone up a lot in the last, you know, month or year, I mean, it will beat 90% or 95% of other investments.
+
+But the one thing I would bet my life on, essentially, is [that] over a 50-year period, not only will Berkshire do considerably better than gold, but common stocks as a group will do better than gold, and probably farmland will do better than gold. I mean, if you own an ounce of gold now, and you, you know, caress it for the next 100 years, you'll have an ounce of gold 100 years from now. If you own 100 acres of farmland, you'll also have 100 acres of farmland 100 years from now, and you'll have taken the crops for 100 years and sold them, and presumably bought more farmland with the proceeds. It's very hard for an unproductive investment to beat productive investments over any long period of time.
+
+And I recognize that it's very interesting. I can say bonds are no good, and Bernanke still smiles at me, you know. Or I can say some stock is no good [...] People [...] But if you say anything negative about gold, I mean, it arouses passions with people, which is kind of fascinating, because usually, if you thought through something intellectually, it shouldn't really make much difference what people say. The question is whether your facts are right and your reasoning is right. But when you run into people that are really excited about gold [...] And I came from a family where my dad loved gold, and he was tolerant. He could take a discussion of it. I find many people have trouble with it.
+
+Charlie?
+
+**Charlie Munger:** Well, I have never had the slightest interest in owning gold. It's a much better life to work with businesses and people engaged in business. I can't imagine a worse crowd to deal with than a bunch of gold bugs.
+
+---
+
+## Part 5: Why Buffett bought JPMorgan personally instead of Wells Fargo ([11:30](https://www.youtube.com/watch?v=Azyocku3ncc&t=690))
+
+*(The question starts just before this marker, at about 11:25.)*
+
+**Warren Buffett:** And Andrew.
+
+**Andrew Ross Sorkin:** We got a couple of questions on this topic. You said in an interview on CNBC that you had bought shares in JPMorgan for your personal account. Can you explain how you decide to make a personal investment versus one in your role as a fiduciary for us as shareholders of Berkshire? And while you're at it, could you please share some names of stocks you've recently bought for your own account?
+
+**Warren Buffett:** Well, the truth is, I like Wells Fargo better than I like JPMorgan. But I also [...] We're buying Wells Fargo stock, and that takes me out of the business of buying Wells Fargo. So therefore I go into something that I don't like quite as well, but that I still like very much. That's one of the problems I have: I can't be buying what Berkshire is buying. And I've got some money around, and therefore I go into my second choices, or into tiny little companies, like I did with Korean companies and that sort of thing. But my best ideas are all in Berkshire, that I can promise you.
+
+Charlie? Charlie's bought real estate too, and different things, and [unclear: "avoid"] that problem.
+
+**Charlie Munger:** Yeah, but basically the Munger family is in two or three things only. Diversification is [unclear: "my idea of not"] something I have practically no interest in, except as it happens automatically in a big place like [unclear: "work"]. I rejoiced the day I got rid of a stock quoting machine. And I like this buy-and-hold investing. It's a lovely way to live a life, and you deal with a better class of people, and it's worked pretty well for all of us.
+
+And I don't think you need to worry about [unclear: "where he or inside Investments his Investments who ber are so huge"] and those are so small, relatively, that if that's your main problem in life, you have a very favored life.
+
+**Warren Buffett:** Well, if you have 98 and a half percent of your money in Berkshire, and you really are trying to do your thinking about what's best for the one and a half percent, you're a little bit crazy. You should be thinking about Berkshire, which I can assure you I do. But, you know, there could be [...]
+
+**Charlie Munger:** *[speaker uncertain]* And he does like Wells Fargo better than JPMorgan.
+
+**Warren Buffett:** Yeah, I do. Yeah. And we have 400 and some million shares of Wells Fargo in Berkshire. And I like JPMorgan fine, obviously, but I know Wells better. It's easier to understand. So, you know, we bought Wells Fargo in the first quarter, we bought Wells Fargo last year, we bought it [in] an awful lot of years. And if I wasn't managing Berkshire, you know, but instead was sitting with my own money, I'd have a lot of money in Wells Fargo, and I'd probably have some money in JPMorgan too.
