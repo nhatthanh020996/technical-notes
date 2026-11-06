@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=-Mxyuo23fM0
 
+Recorded: 2015 Berkshire annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: How To Predict Future Company Earnings". It is misleading: asked for five characteristics that let him predict earnings 10 years out, Buffett says they have no list of five and no one-size-fits-all formula; he only says they look for businesses where they have "some reasonable fix" on the next five or 10 years and that most of their thinking is about filters that stop a deal. IBM, named in the question, is not discussed. The rest of the clip covers other questions the title does not mention: "talking your book" and buybacks, networking without a business-school network, whether sugar concerns are narrowing Coca-Cola's and Kraft Heinz's moats, the dollar as reserve currency, and Buffett's Dexter Shoe mistake. The clip is from the **2015** Berkshire annual meeting (high confidence). The clues: Buffett says "Charlie's 91" (Munger turned 91 on January 1, 2015); the Heinz–Kraft merger is described as current ("now we're going to own those brands"); Van Tuyl (2014) is cited as a past deal; a questioner refers to "the last 50 years" and thanks them for their essays on the past, present and future of Berkshire, written for the 2014 annual report (Berkshire's 50th anniversary); Munger says "we just came through" a period when money printing was needed.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

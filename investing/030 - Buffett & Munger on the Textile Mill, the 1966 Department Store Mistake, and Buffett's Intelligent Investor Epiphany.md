@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=mtBYegwplLM
 
+Recorded: 2023 Berkshire annual meeting, morning session (moderate confidence)
+
 > Note: The original YouTube title is "Warren Buffett Breaks Down His Worst Investments Ever". It is partly misleading. The first four minutes are about two early mistakes: the Berkshire textile mill (plus a second textile company bought in New Hampshire) and the Baltimore department store bought with Sandy Gottesman in 1966 (Hochschild Kohn, though the store is not named in the clip). Buffett does not rank anything as his "worst investment ever". The rest of the clip (about two thirds) is about something else: how Buffett learned about investing, optical illusions shown on screen, reading *The Intelligent Investor* in Lincoln, Nebraska, and "aha moments" in life. The clip is most likely from the **2023** Berkshire annual meeting, in the morning session (moderate confidence). The clues: Munger is alive and on stage (he died in November 2023); Buffett says "we got a few minutes before lunch" and shows prepared slides ("Illusion 1", the duck/rabbit picture), which matches the 2023 meeting; Berkshire shares are worth "hundreds of thousands of dollars per share"; Munger ends with a remark that "a lot of good ideas [...] are being grossly overdone" right now.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

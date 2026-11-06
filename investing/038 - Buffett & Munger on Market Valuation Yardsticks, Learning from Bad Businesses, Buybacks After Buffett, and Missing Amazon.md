@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=FCGjA2ep6iQ
 
+Recorded: 2017 Berkshire annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Why Stock P/E Ratios Are Usually Meaningless". It is misleading: Buffett never says P/E ratios are usually meaningless. He says "every number has some degree of meaning", that market cap to GDP and the cyclically adjusted P/E are "not paramount" in Berkshire's valuations, and that such yardsticks are sometimes very important and sometimes almost totally unimportant. Valuation also takes up only the first three minutes; the rest covers China, running a bad business, Berkshire buybacks after Buffett dies, and missing Amazon (and Google). The clip is most likely from the **2017** Berkshire annual meeting (high confidence). The clues: Munger's "fish where the fish are" remark about China, Buffett saying he was "too dumb" to see Amazon coming, the mention of Bezos's Charlie Rose interview "three or four months ago" (late 2016), Munger's "I meant Google" exchange, and an analyst named Jonathan (most likely Jonathan Brandt of the 2017 analyst panel). The upload date (2025) is not the event date.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

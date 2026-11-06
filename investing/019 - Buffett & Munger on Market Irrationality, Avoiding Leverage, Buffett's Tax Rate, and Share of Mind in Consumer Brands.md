@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=mgfDo4foQGA
 
+Recorded: compilation. Leverage, prostate-cancer and starting-over parts: most likely 2012 annual meeting (moderate confidence); tax segment: around 2011-2012 (moderate confidence); consumer-brand segment: most likely a 1996-1998 annual meeting (low-moderate confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Irrational Behaviour Made Us Rich". It is partly misleading. Only the first ~1.5 minutes are about irrational markets: Buffett says that he and Charlie "benefited enormously" from periods like 1973–74 when people behaved foolishly, and that this is "not the greatest thing for a society". He does not say irrational behavior "made us rich". The rest of the clip covers unrelated topics: refusing leverage, a joke exchange about Buffett's prostate cancer, how he would start over today, his tax rate versus his office staff, and "share of mind" for Coca-Cola, Disney, See's and Kodak.
 >
 > This is a **compilation from several different years**, so there is no single meeting year:

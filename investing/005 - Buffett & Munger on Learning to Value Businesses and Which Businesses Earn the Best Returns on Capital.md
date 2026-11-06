@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=5woO0OmKaJ8
 
+Recorded: most likely 2010 or 2011 Berkshire Hathaway annual meeting (moderate confidence)
+
 > Note: The original YouTube title is "Warren Buffett: The Easiest Way To Value Stocks". It is misleading. Buffett does not offer an easy valuation method. He says there is no shortcut: know the edge of your circle of competence, keep asking questions about businesses, and insist on a margin of safety. The clip is from a Berkshire Hathaway annual meeting, most likely 2010 or 2011 (moderate confidence). Clues: Buffett says he bought Korean stocks "six or seven years ago" (he bought them around 2004). A question is read by Becky Quick, and journalists only started reading questions in 2006. Business Wire, acquired in 2006, is mentioned as a Berkshire company. A questioner jokes that he "would have come by rail", which points to after Berkshire bought BNSF in early 2010.
 
 ---

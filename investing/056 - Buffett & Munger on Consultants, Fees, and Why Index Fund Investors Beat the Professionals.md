@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=XGIkQ9bsWZA
 
+Recorded: most likely the 2017 Berkshire annual meeting (moderate-high confidence)
+
 > Note: The original YouTube title is "Warren Buffett Reveals The Ugly Truth About Hedge Funds". It is misleading: there is no secret "ugly truth" revealed and hedge funds are only touched on indirectly (the "2 and 20" fee). The clip is about consultants and money managers whose fees eat up the returns that a passive S&P 500 index fund investor gets automatically, plus Munger's comment that good managers are a needle in a haystack. The clip is most likely from the **2017** Berkshire annual meeting (moderate–high confidence). The clues: Buffett refers to a 10-year period on which he "stuck [his] neck out" (his 10-year bet against hedge funds, which ended in 2017), contrasts "this group over here" with "that part of the Auditorium" (a hypothetical split of the audience he used at the 2017 meeting), mentions the book *Where Are the Customers' Yachts?* being sold at the meeting bookstore, and closes with "we'll come back at one o'clock" (the lunch break at a Berkshire meeting).
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

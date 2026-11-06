@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=lQSviPyM9DY
 
+Recorded: most likely 1998 Berkshire annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: How To Understand Annual Reports". It is only partly accurate. Only the first four minutes or so are about annual reports, and even there Buffett does not give a method for reading one. He says they read reports of businesses they understand and judge whether management is candid about the things an owner would want to know. The rest of the clip covers four other questions: Coke vs. Pepsi, book recommendations (Guns, Germs, and Steel and others), whether Coca-Cola should buy back its stock at a very high P/E, and why brokers rarely recommend Berkshire. The clip is most likely from the **1998** Berkshire annual meeting (high confidence). The clues: Buffett names "Roberto Goizueta or now Doug Ivester" as Coca-Cola's CEO (Goizueta died in October 1997); he says Coca-Cola has been around 112 years (founded 1886); the questioner mentions Coke at about 40 times earnings, which fits the 1998 peak; Munger's USC speech (1994) is called "a couple years ago"; and Guns, Germs, and Steel (1997) is a "new book".
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

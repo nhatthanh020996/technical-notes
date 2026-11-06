@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=t8DN1cof-sg
 
+Recorded: around 2009-2010, Berkshire annual meeting; 2009 most likely (moderate-low confidence)
+
 > Note: The original YouTube title is "Charlie Munger: The Fundamental Investing Lesson From Evolution". It is misleading: nobody mentions evolution, and Munger's answer is not about investing. Asked for a "unified theory of management and life", he says it is pragmatism, "the fundamental algorithm of life, repeat what works". That takes about one minute. The rest is mostly Buffett: advice to a young entrepreneur to follow his passion (with the story of Mrs. B and the Nebraska Furniture Mart), and why high-speed passenger rail (and a proposed Omaha trolley) does not meet the test of private economics. The clip is most likely from a Berkshire annual meeting around **2009–2010** (moderate–low confidence; 2009 is the most likely year). The clues: "the 70 plus managers"; the Furniture Mart doing about $400 million in sales on 78 acres; the "big proposal in California" for high-speed rail (approved by voters in November 2008); and talk in Omaha about a trolley system funded with a couple hundred million dollars from the federal government. Buffett also invites shareholders to go to the Furniture Mart "this evening", so this is the meeting itself.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

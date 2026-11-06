@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=H4X-4e7fPgI
 
+Recorded: 2003 Berkshire annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Black-Scholes Formula Is Total Nonsense". It is misleading. Buffett never calls Black-Scholes "total nonsense". He says it is a mechanical system based on past volatility that "misprices things from time to time", especially for long-term options. Munger calls it a "know-nothing" value system that is "a pretty good guess" for a 90-day option but "crazy" for longer-term options. The title also leaves out the second half of the clip, which is about executive compensation and stock options. The clip is most likely from the **2003** Berkshire annual meeting (high confidence). The clues: Buffett says that "last year" Berkshire sold $400 million of bonds with "a negative coupon of sorts" (the SQUARZ issue of May 2002) and made $120 million on a commitment priced by Black-Scholes users; he says "as I wrote in the annual report this year" that comp is "the acid test of corporate reform" (his 2002 shareholder letter); he refers to the options Berkshire inherited in the General Re deal (1998) and to "the last five years" of misdirected compensation, after the 1990s boom.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

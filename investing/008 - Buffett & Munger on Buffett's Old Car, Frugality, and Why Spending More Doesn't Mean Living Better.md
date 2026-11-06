@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=bFWbvlRPBvc
 
+Recorded: compilation. Car answer: possibly 1990s (low confidence); frugality exchange: Berkshire annual meeting, undated
+
 > Note: The original YouTube title is "Warren Buffett: Why I'm Never Buying A New Car". It is misleading. Buffett says he would happily drive a newer car if it were safer or if switching cost him no time. He just doesn't want to spend half a day buying one for no benefit. The clip seems to be stitched together from more than one segment: a short answer about Buffett's car, then an exchange with Charlie Munger about frugality that ends at a Berkshire annual meeting. The meeting year can't be determined from the transcript. The comment that his car may be the first of its type with airbags on both sides suggests the 1990s, but that is weak evidence, and the frugality part may come from a different year.
 
 ---

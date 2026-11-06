@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=-IrdsDSNdTU
 
+Recorded: mid-1980s TV interview, most likely 1985, probably Adam Smith's Money World (moderate confidence)
+
 > Note: The original YouTube title is "Young Warren Buffett Explains His Investment Process Back In 1985". It is not badly misleading, but it is vague: the clip is not a step-by-step "process". Buffett talks about temperament over IQ, valuing a business before looking at the price, why he stays in Omaha, his circle of competence (no technology stocks, not even IBM), the "no called strikes" baseball analogy, and why academics miss the simple approach. The clip is from a mid-**1980s** TV feature/interview, most likely the 1985 date the uploader gives (moderate confidence); it is very likely the "Adam Smith's Money World" interview with George Goodman (moderate confidence; the interviewer is not named in the clip). The clues: Buffett says "in 30 years of investing" (his partnership started in 1956), a narrator introduces Omaha as if to a TV audience, and he mentions the Washington Post (a long-time Berkshire holding).
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

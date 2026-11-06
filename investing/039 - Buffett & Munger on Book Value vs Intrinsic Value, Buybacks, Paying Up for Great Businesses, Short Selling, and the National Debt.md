@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=LAZNpEyOCIw
 
+Recorded: most likely 2013, Berkshire annual meeting, certainly 2013-2018 (low-moderate confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Why Book Value Is Meaningless". It is misleading. Buffett says book value has virtually no correlation with intrinsic value across companies, but he also says it has "reasonable tracking utility" at Berkshire, and Berkshire's buyback threshold is set as a percentage of book value. Book value takes up only the first two and a half minutes. The rest of the clip covers buybacks, paying up for wonderful businesses (See's Candy), stock-market vs. negotiated purchases, lifelong learning, whether Munger would move to Omaha, short selling, the 2008 crisis response, and the national debt.
 >
 > The clip is from a Berkshire annual meeting ("as I said earlier on this weekend"), most likely **2013** (low–moderate confidence), and certainly between 2013 and 2018. The clues: the buyback threshold of 120% of book value was set in December 2012 and dropped in 2018. Buffett mentions his New York Times op-ed on the debt "in 2009 or 2010" (likely "The Greenback Effect," August 2009) as something from a few years back. The flash-crash reference points after 2010. The debt-to-GDP and "if you aren't confused, you don't understand it" discussion fits the 2013 fiscal-cliff and sequester period. The clip is a string of separate Q&A segments with the questions mostly cut. They may not all come from the same year.

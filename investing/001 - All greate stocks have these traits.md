@@ -2,6 +2,10 @@
 
 Source: https://www.youtube.com/watch?v=-vq4NOCrskE
 
+Recorded: around 2003-2008, Berkshire Hathaway annual meeting (low confidence)
+
+> Note: The year is inferred from clues in the clip. Munger calls Arthur Andersen "a very good name in America not very long ago" (Andersen collapsed in 2002), and Buffett speaks of NetJets founder Rich Santulli as still "building and fortifying" its advantage (Santulli left NetJets in 2009).
+
 ---
 
 ## Question 1: Economic moats

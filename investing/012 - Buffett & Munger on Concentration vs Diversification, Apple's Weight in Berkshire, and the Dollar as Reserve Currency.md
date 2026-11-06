@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=ZNGIA3htIto
 
+Recorded: 2023 Berkshire Hathaway annual meeting (high confidence)
+
 > Note: The original YouTube title is "Charlie Munger: Why Diversification Is Total Nonsense". It is somewhat misleading. Munger calls the idea that *vast* diversification is mandatory "insane", and argues for owning your best ideas if you know the limits of your competence. He does not say diversification in general is nonsense, and only the first part of the clip is about it. The second part is about U.S. debt, money printing, and whether the dollar will stay the world's reserve currency. The clip is from the 2023 Berkshire Hathaway annual meeting. Confidence is high: the questioner cites a national debt of about $31 trillion, Berkshire owns about 5.6% of Apple, Buffett mentions selling some Apple shares "a couple years ago" (2020), and Munger is still alive (he died in November 2023). The clip starts in the middle of a question, so its beginning is cut off.
 
 ---

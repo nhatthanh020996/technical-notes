@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=4KfmkjmjJgI
 
+Recorded: compilation, Berkshire annual meetings in the mid-to-late 2010s (low confidence). Parts 1-4: around 2015; Part 5: around 2015-2017; Part 6: 2013 or later, probably 2014-2017
+
 > Note: The original YouTube title is "Charlie Munger: Powerful Mental Models Used By Great Investors". It is misleading: nobody in this clip talks about "mental models". Munger talks about rationality as a moral duty and why stock-picking alone isn't "enough of a life". Buffett describes how Berkshire picked investments. Both talk about learning from bad businesses, their families, the internet, and (mostly Munger) the cost and value of college. The clip is a **compilation** of several Q&A excerpts. It cuts abruptly between topics, and some sections start mid-answer. All of it appears to come from Berkshire annual meetings in the **mid-to-late 2010s**, but I can't pin down the exact year of each part (low confidence):
 > - Parts 1–4 (rationality, investing vs. building, Berkshire's approach, luck and families): Buffett refers to "the movie" and "this book" (possibly the meeting's opening movie and Berkshire's 50th-anniversary book, which would point to around 2015). Munger refers to his "deceased wife" (Nancy Munger died in 2010). Low confidence; these parts may not all come from the same year.
 > - Part 5 (internet, Bloombergs): Buffett says "just 20 years on the internet", which suggests around 2015–2017. CFO Marc Hamburg is mentioned. Low confidence.

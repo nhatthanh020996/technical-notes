@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=iU61G1zO5yw
 
+Recorded: compilation, most likely all 2017 Berkshire annual meeting (moderate-high confidence for Parts 1-4, moderate for Part 5)
+
 > Note: The original YouTube title is "Warren Buffett: Why Corporate Boards Lie To Shareholders". It is misleading: nobody in the clip says boards lie to shareholders. The first part is about executive pay (compensation consultants, the coming CEO-pay-ratio disclosure, stock options not being counted as a cost, directors who never bought a share with their own money), and Buffett explicitly says "it isn't that the people are evil". The rest has nothing to do with boards: learning and unlearning, Phil Fisher's scuttlebutt method, Buffett's regret about not meeting Munger earlier, and why EBITDA and "2 and 20" are misleading. The clip is a compilation of answers, most likely all from the **2017** Berkshire Hathaway annual meeting (moderate–high confidence for Parts 1–4, moderate for Part 5). The clues: Berkshire with "367,000 people employed" (its 2016 year-end headcount), the CEO pay-ratio disclosure described as "coming in pretty soon" (it first applied to proxy statements in 2018), the recent Apple purchase (2016–2017), Puerto Rico's bankruptcy (filed May 2017), and Precision Castparts (bought 2016) as a recent acquisition. The upload date (December 2023) is not the event date.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

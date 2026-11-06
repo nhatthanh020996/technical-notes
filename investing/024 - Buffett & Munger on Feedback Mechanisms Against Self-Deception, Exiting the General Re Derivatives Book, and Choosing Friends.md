@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=QXPUa85wLKs
 
+Recorded: 2002 Berkshire annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Investing Lesson From Charles Darwin". It is misleading: Darwin appears only in the shareholder's question (Darwin's habit of writing down facts that contradicted his conclusions). Buffett does not draw an investing lesson from Darwin. The answers are about how Buffett and Munger guard against confirming their own biases (a non-subservient partner, the annual report, the problem of sycophantic corporate staffs and boards), then a long digression on getting out of the General Re derivatives book, and a second, unrelated question from a 12-year-old about friendship. The clip is most likely from the **2002** Berkshire annual meeting (high confidence), and both questions appear to be from the same meeting. The clues: Berkshire is "running off" the General Re derivative book and reports an $88 million first-quarter loss from it; Enron's derivative accounting is being unwound in bankruptcy court (Enron failed in December 2001); the questioner mentions the Fortune magazine article sent to shareholders (Buffett's November 2001 Fortune article); and in the second question Buffett says he and Charlie met in 1959 and have not argued "in 43 years" (1959 + 43 = 2002).
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

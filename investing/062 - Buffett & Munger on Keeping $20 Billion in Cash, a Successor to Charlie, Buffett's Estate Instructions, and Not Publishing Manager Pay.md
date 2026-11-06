@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=2Z7Qecz-wn0
 
+Recorded: 2014 Berkshire Hathaway annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: How To Make Easy Money From Falling Markets". It is misleading: nobody explains how to make money from falling markets. The closest thing is the first minute, where Buffett says Berkshire always keeps $20 billion so it never depends on "the kindness of strangers", and mentions lending to Harley-Davidson at 15% when others needed cash. The rest is about whether anyone will replace Charlie, why Buffett's will tells the trustee for his wife's money to use an S&P 500 index fund while his Berkshire shares go to charity unsold, and why Berkshire does not publish its managers' pay. The clip is from the **2014** Berkshire Hathaway annual meeting (high confidence). The clues: Buffett says "Charlie turned 90" (Munger turned 90 on January 1, 2014); the 90% S&P 500 index-fund instruction to the trustee first appeared in the 2013 shareholder letter, published in early 2014; the questions are read out by panelists, as in the meetings of that period.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

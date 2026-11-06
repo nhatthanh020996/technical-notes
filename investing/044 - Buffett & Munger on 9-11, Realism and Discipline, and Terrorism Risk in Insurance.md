@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=tqq5BF23L7o
 
+Recorded: most likely the 2002 Berkshire annual meeting (moderate confidence)
+
 > Note: The original YouTube title is "Charlie Munger: Surprising Investing Lessons From The 9/11 Attacks". It is misleading: Munger speaks for only about 30 seconds at the start (saying that 9/11 forced the country to face reality, and that tighter immigration procedures should have come years earlier). Nearly all of the clip is Warren Buffett, and the "lessons" are mostly about insurance underwriting, not investing: how Berkshire had been giving away terrorism coverage for nothing before 9/11, why it now excludes nuclear, chemical and biological (NCB) risks, and why it worries about aggregation (for example, a biological attack causing huge workers' compensation losses). The clip is most likely from the **2002** Berkshire annual meeting (moderate confidence). The clues: 9/11 is discussed as a recent event that just cost Berkshire a lot of money, and the policies that were on the books on September 11th "have run off to a great degree but they're not entirely run off", which fits the following spring. A shareholder asks the question at 02:12. It is possible the opening Munger remark comes from a different moment of the same meeting.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

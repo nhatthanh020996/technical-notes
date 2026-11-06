@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=Wci6R8Z4XGI
 
+Recorded: 2004 Berkshire annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: How To Know If A Company Is A Fraud". It is misleading: the question is how an entry-level employee can tell whether her employer is honest, and Buffett openly says "I don't think I have a really good answer for that". Apart from one small warning sign (the stock price posted in the headquarters lobby), neither man offers a way to detect fraud. Munger's point is the opposite: Royal Dutch Shell fooled them, and they would not have spotted it "by any of the means that we normally use". Most of the clip is about the "anything goes" culture of the 1990s, Congress blocking stock option expensing, and Buffett's story of the 1897 Indiana pi bill. The clip is most likely from the **2004** Berkshire annual meeting (high confidence). The clues: the Royal Dutch Shell oil-reserves scandal broke in early 2004; the questioner refers to Enron; the Senate vote against the FASB's option-expensing proposal is "some 10 years ago" (Buffett says 1993); the Big Five have become the Big Four and now all back option expensing; and Munger refers to House members currently trying to keep the old accounting (the 2004 House bill to limit option expensing).
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=KzFxAY30oWQ
 
+Recorded: most likely 2017 Berkshire annual meeting (moderate-high confidence)
+
 > Note: The original YouTube title is "Warren Buffett Explains Why He Sold Wells Fargo Stock". It is misleading: Buffett does not talk about selling Wells Fargo stock anywhere in this clip. He talks about what Wells Fargo did wrong, using Salomon as a comparison, and how Berkshire finds out about misconduct. The clip is most likely from the **2017** Berkshire annual meeting (moderate–high confidence). The clues: the Wells Fargo sales-practices scandal broke in September 2016, and the $185 million fine is discussed as recent news.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

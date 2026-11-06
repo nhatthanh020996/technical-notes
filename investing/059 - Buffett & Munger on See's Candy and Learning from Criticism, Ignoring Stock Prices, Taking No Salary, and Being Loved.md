@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=AxkHFmt-H5k
 
+Recorded: compilation of Berkshire annual meetings. Part 2: about 2001-2003; Part 4: before 2015; Parts 1 and 3: undated (low-moderate confidence)
+
 > Note: The original YouTube title is "Charlie Munger: Why High PE Ratio Stocks Are Often The Best". It is misleading: nobody mentions P/E ratios or argues that high-P/E stocks are best. The closest thing is Munger's See's Candy story, where Ira Marshall told them they were underestimating business quality and they learned to pay up for it. The rest of the clip is about not fretting over stock prices (mostly Buffett), Carnegie/Rockefeller-style founders taking no salary and the relief of not getting performance fees (Munger), and Buffett's answer that the measure of success is being loved by the people you hope will love you.
 >
 > The clip is a **compilation** of Berkshire annual meeting excerpts (low–moderate confidence on dates). Part 2 (temperament) is most likely from about **2001–2003**: Dick Grasso is still running the New York Stock Exchange (he left in September 2003), Berkshire is "selling bricks" (Acme Brick, bought 2000) and Dilly Bars (Dairy Queen, bought 1998), and the Walmart mistake is "a few years ago". Part 4 (love) is before **2015**, since Don Keough, who died in 2015, was at a recent dinner; Buffett's "I hate to tell you that at 13" suggests the questioner was a 13-year-old. Parts 1 and 3 give no firm date clues. The upload date (July 2025) is not the event date.

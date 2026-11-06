@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=3WXF2ff55M8
 
+Recorded: 1994 Berkshire annual meeting (high confidence)
+
 > Note: The original YouTube title is "Young Bill Ackman Criticizes Warren Buffett On Leverage (1994)". It is misleading. Ackman does not criticize Buffett. He asks a polite question: why is Salomon, which is levered 30 to 1, an appealing investment after Buffett has just warned about leverage? Buffett answers mostly by praising Salomon's managers, and that exchange takes only the first two and a half minutes. The rest of the clip covers the tobacco business and Berkshire's super-catastrophe reinsurance exposure. The year in the title fits: this is almost certainly the **1994** Berkshire annual meeting (high confidence). The clues: Buffett's answer about the "LA quake" refers to the January 1994 Northridge earthquake (magnitude 6.7) as recent, with insured-loss estimates still climbing. Salomon's post-scandal leaders, Bob Denham (Salomon Inc.) and Deryck Maughan (Salomon Brothers), are present. Hurricane Andrew (1992) is cited as a recent wake-up call, and a shareholder asks about Guinness samples while Berkshire still held Guinness.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

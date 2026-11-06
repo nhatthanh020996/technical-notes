@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=I9vjyr2SV54
 
+Recorded: compilation of Berkshire annual meetings. Munger's opening remark: undated; the "$30 billion" question (Parts 1-2): late 1990s; Part 3: most likely 1999 or 2000; Part 4: undated (low-moderate confidence)
+
 > Note: The original YouTube title is "Charlie Munger: Everything Gets Easier After Earning Your First $100K". It is misleading in two ways. Munger's remark about the first $100,000 takes up only the first ~30 seconds, and he says getting there is a "long struggle" helped by rationality, opportunism and underspending; he does not say that "everything gets easier" afterward. The other ~8.5 minutes are Buffett: how he would start today with $10,000, why you must think for yourself (his 1951 GEICO story), and how Berkshire handles the discount rate, moats and management when valuing a business (Wrigley, Coca-Cola).
 >
 > The clip appears to be a **compilation** of Berkshire annual meeting excerpts (low–moderate confidence on dates). Munger's opening remark (Part 1, first paragraph) is a separate excerpt that gives no date clues. The "how can I make $30 billion?" question fits the **late 1990s**, when Buffett's net worth was around that figure. The moat and discount rate answer (Part 3) is most likely from the **1999 or 2000** meeting: Buffett contrasts a horseshoe company with "somebody named .com" and an internet company, and says there are "six billion people in the world". The upload date (June 2025) is not the event date.

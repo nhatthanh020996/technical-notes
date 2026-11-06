@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=Azyocku3ncc
 
+Recorded: 2012 Berkshire Hathaway annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Own Cheap Stocks To Get Rich". It is somewhat misleading. Buffett does say that stocks selling "at silly prices from time to time" is how he and Munger got rich, but the clip is not a guide to owning cheap stocks. It covers Berkshire's own stock being over- and undervalued at times, Mr. Market from chapter 8 of *The Intelligent Investor*, the fact that he and Munger never discuss macro conditions when buying, why gold will lose to productive assets, and why Buffett bought JPMorgan for his personal account when he liked Wells Fargo more. The clip is from the **2012** Berkshire Hathaway annual meeting (high confidence). The clues: "we've run Berkshire now for 47 years" (since 1965); gold is "now at 1,600" and Berkshire "at 120,000"; Munger mentions the ages 88 and 81 (Munger was 88 and Buffett 81 in May 2012); there are "53 years" of partnership since they met in 1959; Buffett's CNBC remark about buying JPMorgan personally was made in 2012; and the questioners include "Cliff" (surname not given in the clip; the analyst panel only began in 2013, so he is probably not an analyst-panel member) and Andrew (Andrew Ross Sorkin).
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

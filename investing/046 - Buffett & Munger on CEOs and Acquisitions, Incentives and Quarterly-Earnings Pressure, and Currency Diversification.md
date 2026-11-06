@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=gp_IuQMt06M
 
+Recorded: most likely the 2004 Berkshire annual meeting (moderate confidence; 2005 is possible)
+
 > Note: The original YouTube title is "Warren Buffett: Most CEOs Don't Know How To Invest". It is misleading: that point takes up only the first minute (CEOs who say they cannot pick a stock with their own money, yet approve multi-billion-dollar acquisitions after a two-hour banker presentation). Most of the clip is about other things: Munger on the speculative excess of the era; Berkshire's "greatest fears" (something going wrong among 180,000 employees, bad incentives, pressure to meet quarterly earnings, and deploying capital); whether individuals should diversify out of the dollar; and Berkshire's lack of conventional asset allocation. The clip is most likely from the **2004** Berkshire annual meeting (moderate confidence; 2005 is possible). The clues: about 180,000 employees; about $45 billion of loss reserves; NetJets already owned; a junk-bond position of about $7 billion bought when it was "screaming at us" (2002); Buffett saying he hasn't done a very good job of deploying capital recently; the debts being created "by running these deficits"; and "the Salomon thing in the movie" (the film shown at the start of the meeting). The questions are numbered ("number five"), and the clip appears to be continuous.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

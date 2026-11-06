@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=XqvuLYkHjXc
 
+Recorded: most likely the 2018 Berkshire Hathaway annual meeting, Buffett's opening presentation (moderate-high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Why I Bought Stocks In WW2". It is somewhat misleading: Buffett does tell the story of buying his first stock (three shares of Cities Service preferred) on March 11, 1942, during the war, but he gives no wartime investing thesis beyond "everybody knew America was going to win". The main point of the clip is a different one: $10,000 put into an S&P 500-style holding in 1942 and never touched would be worth $51 million, while the same money in gold would be worth about $400,000. Only Buffett speaks; Charlie Munger does not appear in the clip. The clip is most likely Buffett's opening slide presentation at the **2018** Berkshire Hathaway annual meeting (moderate–high confidence). The clues: the $51 million and roughly $400,000 gold figures match his writing from 2018–2019; he asks whether the Fed will raise rates "three times or four times or two times", which was the debate in 2018 (by 2019 the Fed had paused); and he refers to "the questions and answers we give today", which marks it as a meeting opening.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

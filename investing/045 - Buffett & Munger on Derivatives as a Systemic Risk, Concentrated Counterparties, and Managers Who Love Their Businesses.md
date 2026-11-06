@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=g04zv0D8uQ8
 
+Recorded: 2003 Berkshire annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett Predicted the 2008 Crash (Back in 2003)". It is misleading. Buffett warns that derivatives could, with "a low but not insignificant probability", "maybe in three years, maybe in 5 years, maybe in 20 years and very possibly never", make a systemic problem much worse, and he says explicitly: "it's not a prediction, it's a warning". It is Munger, not Buffett, who goes further and says he will be amazed if there is no significant blow-up within five or ten years. Neither of them talks about housing, mortgages or a market crash, and the last third of the clip is about something else entirely: how Berkshire judges whether a manager has a passion for the business. The clip is from the **2003** Berkshire annual meeting (high confidence). The clues: Buffett refers to what he "wrote about it this time" (the 2002 shareholder letter, published in early 2003, which called derivatives "financial weapons of mass destruction"); the energy-trading collapses "in the last two years" (Enron and others, 2001–2002); the 1998 near-paralysis of the credit markets (Long-Term Capital Management, not named in the clip); and the reference to Berkshire looking "out of step a few years ago" (the late-1990s tech boom).
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

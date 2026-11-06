@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=SFyUT_nkLNU
 
+Recorded: compilation of Berkshire meeting clips. Parts 3-5: roughly 2014-2016 (low-moderate confidence); Part 6: 1997 or 1998 (moderate confidence); Parts 1-2: undated
+
 > Note: The original YouTube title is "Warren Buffett Explains How To Calculate Intrinsic Value Of A Stock". It is misleading: Buffett gives no calculation method. He defines intrinsic value (the present value of all cash a business will distribute between now and "Judgment Day"), says it is "easy to say and impossible to figure", and contrasts Graham's quantitative emphasis with Fisher's and Munger's qualitative one. About a third of the video (Parts 3 to 5) is not about intrinsic value at all: it covers private equity as a competitor and Munger on why Berkshire's model will last and why nobody copies it.
 >
 > The video is a compilation of clips from **at least two different meetings**:

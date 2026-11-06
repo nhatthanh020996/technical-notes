@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=hVqfWfC14Es
 
+Recorded: compilation. Part 4: 1998 Berkshire annual meeting (high confidence); Part 3: mid-to-late 1990s, possibly 1998 (low-moderate confidence); Parts 1-2: undated
+
 > Note: The original YouTube title is "Warren Buffett: Our Easy Method For Spotting Liars". It is misleading. Buffett gives no "easy method": he says he and Charlie need evidence of behavior in front of them, ideally from working with someone over a few months, and he jokes that you could leave your lunch money on their desk. That answer takes only about two minutes of the sixteen. The rest is Munger on track records and reputation, a long exchange on public education and vouchers, and a question on why Berkshire skips traditional due diligence. The clip appears to be stitched from Berkshire annual meeting Q&A. Part 4 is from the **1998** meeting (high confidence): the questioner cites the annual report's account of the Star Furniture purchase (agreed in 1997 after a two-hour meeting with Melvyn Wolff), and Buffett closes the meeting ("We're now at 3:30... I hope to see you next year"). Part 3 is probably from the mid-to-late 1990s, possibly the same 1998 meeting (low–moderate confidence): Buffett refers to "the 500 million dollars" (most likely the Annenberg Challenge of 1993) and to a "fellow in Chicago" with political clout pushing school reform (Chicago's schools were overhauled from 1995). Parts 1–2 have no clear dating clues (low confidence; they may or may not be from the same meeting).
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

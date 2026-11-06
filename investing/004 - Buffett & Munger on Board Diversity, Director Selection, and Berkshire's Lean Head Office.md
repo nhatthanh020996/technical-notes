@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=7_GyDptWDqQ
 
+Recorded: 2016 Berkshire Hathaway annual meeting (fairly high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Companies Should Stop Wasting Time On Diversity". It is misleading. Buffett never says companies should stop wasting time on diversity. He says Berkshire picks directors on three criteria (business savvy, shareholder oriented, a special interest in Berkshire) rather than for big names or box-checking, and he praises the small headquarters staff. The clip almost certainly comes from the 2016 Berkshire Hathaway annual meeting: the question cites a 2015 Calvert Investments analysis as recent, and Buffett mentions Theranos, whose high-profile board was in the news in 2015–2016. Confidence in the year: fairly high.
 
 ---

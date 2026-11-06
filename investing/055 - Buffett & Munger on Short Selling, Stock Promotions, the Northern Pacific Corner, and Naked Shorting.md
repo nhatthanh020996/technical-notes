@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=6B7ZMolDoqg
 
+Recorded: compilation. Parts 1-3: most likely the 2001 Berkshire annual meeting (moderate-high confidence); Part 4: a late-2000s Berkshire annual meeting, around 2006-2008 (low-moderate confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Shorting Stocks Is Always A Terrible Idea". It overstates what is said. Buffett says shorting is "a very, very tough business", painful and not worth it for Berkshire, but also that there is "nothing evil per se" about it, that he would have been right on almost every short idea he had, and that a few people may be well suited for it. He never says it is *always* a terrible idea. The clip is a **compilation of two answers from different Berkshire annual meetings** (no uploader chapters or upload date):
 > - **Parts 1–3 (00:00–06:23):** most likely the **2001** meeting (moderate–high confidence). Buffett says FINOVA (a Berkshire/Leucadia rescue that went bankrupt in March 2001) was "failing last fall", and he cites a current New Yorker issue with a story on Ted Turner (Ken Auletta's Turner profile ran in April 2001).
 > - **Part 4 (06:23–end):** a separate meeting, probably the **late 2000s** (around 2006–2008; low–moderate confidence). The clue is the question about "naked shorting" and fails to deliver, which was a hot topic then. Munger's reply ("happy crooks") is a different answer from his Ben Franklin remark in Part 2.

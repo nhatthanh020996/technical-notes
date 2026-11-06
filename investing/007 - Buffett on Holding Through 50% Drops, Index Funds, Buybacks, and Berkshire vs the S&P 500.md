@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=LvsQG28L3Yc
 
+Recorded: 2020 Berkshire Hathaway annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Buy Stocks And Never Sell". It is misleading. Buffett says you should only buy stocks if you're prepared to hold them for a very long time and sit through big declines. He never says to never sell, and he spends much of the clip on index funds, buybacks and Berkshire's performance. The clip is almost certainly from the 2020 Berkshire Hathaway annual meeting (high confidence). Greg Abel sits with Buffett instead of Charlie Munger, and Buffett compares fear to "the virus". He also mentions that buyback restrictions are being written into "the loan program" (the 2020 CARES Act loans), Berkshire trailing the S&P 500 by 8% year to date, and book net worth of "370-some billion" at quarter end. The questions are read by Becky Quick. The clip starts in the middle of an answer.
 
 ---

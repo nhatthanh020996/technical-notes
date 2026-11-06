@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=_C1g1TgZ_zA
 
+Recorded: 2023 Berkshire annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett Explains Why Index Funds Are Dangerous". It is misleading. Buffett never says index funds are dangerous. He says the big index fund managers have piled up voting power, that it is in their own interest to back off from using it, and that they use cheap index funds to pull in money and then sell higher-fee funds. Index funds are only the first three minutes. The rest is about how shareholders should judge Greg Abel once he runs Berkshire, and about bank runs, the FDIC and poor messaging after Silicon Valley Bank. The clip is from the **2023** Berkshire annual meeting (high confidence). The clues: Buffett says "here we are in, you know, 2023", talks about "the weekend of Silicon Valley Bank" (March 2023) and his recent trip to Tokyo (April 2023), and Munger is present.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

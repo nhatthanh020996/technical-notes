@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=VdH3-Pn-EEI
 
+Recorded: most likely the 2019 Berkshire annual meeting (moderate confidence)
+
 > Note: The original YouTube title is "Warren Buffett: How To Start Your Own Investment Fund". It is misleading. Only the first question, about two and a half minutes, is about starting a fund, and the answer is about *when* you should take other people's money (only from people who share your expectations), not how to set up a fund. The rest of the clip is about whether Berkshire must disclose its foreign stocks, how Buffett and Munger handle disagreements, the value of good partners, and why 50% returns are possible on $1 million but not on large sums. The clip is most likely from the **2019** Berkshire annual meeting (moderate confidence). The clues: Buffett says he and Munger have known each other for "60 years" (they met in 1959); Verne McKenzie is spoken of as gone; Mark Hamburg is the CFO; Munich Re and Tesco are cited as past foreign holdings; and Carol Loomis, one of the journalists who read questions, is still on the panel.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=z85iiX2QWqU
 
+Recorded: mid-to-late 1990s, most likely 1996-1998, Berkshire Hathaway annual meeting (low-to-moderate confidence)
+
 > Note: The original YouTube title is "Charlie Munger Explains Why You Only Need Three Stocks To Get Rich". It is misleading in two ways. Most of the "three wonderful businesses" argument comes from Buffett, not Munger, and neither of them says three stocks will make you rich. Buffett says that three wonderful businesses you understand beat a diversified group of 50. The clip is from a Berkshire Hathaway annual meeting in the mid-to-late 1990s. Gillette and Coca-Cola are core holdings, Bill Gates and Microsoft come up as a technology example, and the questioner asks about Pfizer and J&J. The exact year cannot be pinned down from the clip. 1996–1998 is most likely (low-to-moderate confidence). The clip seems to be edited together from more than one exchange, and it opens with a short teaser line repeated from later in the video.
 
 ---

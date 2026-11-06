@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=1dbhz-CcK_s
 
+Recorded: most likely the 2025 Berkshire Hathaway annual meeting (moderate confidence; 2024 is possible)
+
 > Note: The original YouTube title is "Warren Buffett: Why Benjamin Franklin Was The Greatest Investor Ever". It is misleading: Buffett never calls Franklin an investor, let alone the greatest one. He admires Franklin as a remarkable all-round thinker, mentions Franklin's will (money left to Philadelphia and Boston as an example of compounding), and then moves on to America's place in the world, lecturing other countries, nuclear proliferation, and the need for a currency that does not get debased. Only Buffett speaks; the question (apparently about sitting under a tree with Ben Franklin) is not included. The clip is most likely from the **2025** Berkshire Hathaway annual meeting (moderate confidence; 2024 is possible). The clues: Buffett speaks of "eight billion people" (world population passed 8 billion in late 2022); Munger (died November 2023) is not asked to comment; and the themes of not humiliating the "losers" of the world and of currency debasement match Buffett's remarks on trade and fiscal policy at the 2025 meeting.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

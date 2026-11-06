@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=UlJdjfcjNV8
 
+Recorded: around 2012-2015, Berkshire annual meeting (low-moderate confidence)
+
 > Note: The original YouTube title is "Charlie Munger: “Invert, Always Invert”". It is partly misleading. The questioner quotes Charlie's "invert, always invert" to set up the question "what should we avoid?", but nobody explains inversion, and Buffett does most of the talking. The actual content: Berkshire's filters (understandability and price), why it never buys new issues or high-commission products, Munger's tip to look at what other smart people are buying, and a second question on valuing declining businesses (textiles, shoes, the Baltimore department store, Blue Chip Stamps). The clip is most likely from a Berkshire annual meeting around **2012–2015** (low–moderate confidence). The clues: the first question seems to come from the journalist panel, since Buffett hands over to "Becky" at the end, and that panel started in 2008. Buffett calls newspapers a declining business that Berkshire is in and pays a price for, which fits after Berkshire's 2011–2012 newspaper purchases. Sandy Gottesman is described as a current director (he served until his death in 2024). Blue Chip Stamps' sales are put at "about 20,000" last year.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

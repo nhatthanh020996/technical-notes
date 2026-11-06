@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=gTO9fNkDk7Y
 
+Recorded: Berkshire Hathaway annual meeting, undated (possibly 2010s, low confidence)
+
 > Note: The original YouTube title is "Warren Buffett On Exposing Business Frauds And Deception". It is broadly accurate, though slightly overstated. Buffett talks about filtering out untrustworthy people and spotting games with numbers, not about exposing frauds publicly. The clip appears to come from a Berkshire Hathaway annual meeting, but the year cannot be determined from the content. There are no named events, candidates, or dated references. The tone and the private-equity anecdote suggest the 2010s, but that is a low-confidence guess.
 
 ---

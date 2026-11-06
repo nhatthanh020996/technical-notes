@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=GkmjofBR_Cw
 
+Recorded: 2022 Berkshire Hathaway annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Why Recent Inflation Is Like 1943 Inflation". It is misleading: Buffett never mentions 1943 and does not compare the two periods in any detail. He makes one brief comparison to World War II, when people had money but could not buy cars, refrigerators, sugar or gasoline. The main points are the huge amount of money the government sent out, the currency in circulation (about $7,000 per person), a thought experiment about mailing $1 million to every household, what Berkshire's businesses (the Furniture Mart, jewelry stores) were seeing, and his view that Jerome Powell is a hero. The clip is from the **2022** Berkshire Hathaway annual meeting (high confidence). The clues: the question is about "this particular inflationary period"; Buffett mentions two years of rising prices since the pandemic stimulus; he cites about $2.2 trillion of currency in circulation, which matches early 2022; and he praises "Jay Powell" for acting when the virus hit.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

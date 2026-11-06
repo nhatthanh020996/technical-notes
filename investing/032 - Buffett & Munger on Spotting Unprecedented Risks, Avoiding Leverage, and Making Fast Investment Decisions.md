@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=knuRt9U2qjA
 
+Recorded: 2009 Berkshire annual meeting (moderate confidence; 2008 possible)
+
 > Note: The original YouTube title is "Warren Buffett: How To Avoid Black Swans". It is somewhat misleading: the term "black swan" is never used, and there is no method for avoiding them. What is actually said: Buffett reads the criteria for a future Berkshire investment manager from the 2006 annual report (someone "genetically programmed to recognize and avoid serious risks, including those never before experienced"), says the banks' risk models failed, and explains why Berkshire runs with little leverage; Munger mocks "chief risk officers" and model worship. The second half (about 40% of the clip) is a different question, about how fast Berkshire can decide on an investment, which the title does not cover. The questioner's second question (about investing in South Korea or China) is not answered in the clip. The clip is most likely from the **2009** Berkshire annual meeting (moderate confidence; 2008 is possible). The clues: Buffett says his 2006 warning "proved to be somewhat prophetic of what happened last year", with the major banks and investment banks not understanding their risk, which fits the 2008 financial crisis best; he still talks about "the four people we're thinking about" as investment successors, as in the 2006–2009 period; and Berkshire's credit and liquidity are discussed in post-crisis terms.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

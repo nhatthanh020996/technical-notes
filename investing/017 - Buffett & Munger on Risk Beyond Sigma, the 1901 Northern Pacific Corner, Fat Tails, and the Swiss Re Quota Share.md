@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=-lzbMBJsEMI
 
+Recorded: most likely 2011 Berkshire annual meeting, 2010 possible (moderate confidence)
+
 > Note: The original YouTube title is "Warren Buffett: What Most Investors Don't Understand About Risk". It is somewhat misleading: the clip is not about ordinary investors. It is about how Berkshire guards against catastrophic risk (keeping a large cash cushion and distrusting sigma-based risk models). After that comes a separate question about the expiring Swiss Re reinsurance contract, which has nothing to do with risk. The clip is most likely from the **2011** Berkshire annual meeting (moderate confidence; 2010 is possible). The clues: the question cites the $20 billion cash minimum, which Buffett pledged in the 2010 shareholder letter (published February 2011). The Swiss Re quota share (a five-year deal from 2008) "ends in 2012" in the future tense. Buffett mentions September 2008 as past and "six hundred thousand shareholders", which fits the larger shareholder base after the 2010 BNSF acquisition.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

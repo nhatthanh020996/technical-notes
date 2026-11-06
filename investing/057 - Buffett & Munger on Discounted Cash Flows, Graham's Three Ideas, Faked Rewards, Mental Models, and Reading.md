@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=FwFvOzIfRjY
 
+Recorded: compilation of Berkshire annual meetings, 1990s to early 2000s. Part 1: probably 1996; Parts 7-8: probably around 1998; other parts: undated (low-moderate confidence)
+
 > Note: The original YouTube title is "Charlie Munger: Why Calculating Cash Flow Is A Waste Of Time". It is misleading: Munger never says calculating cash flow is a waste of time. In the first 45 seconds he jokes that he has never seen Buffett actually do a discounted cash flow calculation, and Buffett adds that if a deal needs pencil and paper, it is too close; the margin of safety should be obvious. The rest of the clip, mostly Buffett, has nothing to do with cash flow: Graham's three ideas, rewarding things that can be faked, the bottom 20% of the workforce, mental models, Berkshire's long horizon, and books.
 >
 > The clip is a **compilation** of short excerpts, apparently all from Berkshire annual meetings of the **1990s to early 2000s** (the "zone" microphones, Gillette still being a separate company, which ended in 2005). Dating each part (low–moderate confidence): the discounted cash flow exchange (Part 1) matches a well-known quote usually attributed to the **1996** meeting; the mole rats / Nathan Myhrvold story (Parts 7–8), with Buffett having taken Munger to Microsoft "in December", is most likely from the late 1990s (probably **1998**); the other parts give no firm date clues. The upload date (June 2025) is not the event date.

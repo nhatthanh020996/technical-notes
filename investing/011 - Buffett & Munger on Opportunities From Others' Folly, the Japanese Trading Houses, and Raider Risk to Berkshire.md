@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=rtFiPohBYg0
 
+Recorded: 2023 Berkshire Hathaway annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett Explains When To Buy Stocks". It is misleading. Buffett gives no rule for when to buy stocks. The clip covers where investment opportunities come from today, the story of Berkshire's investment in five Japanese trading companies, and whether a corporate raider could take over Berkshire after Buffett. The clip is from the 2023 Berkshire Hathaway annual meeting. Confidence is high: Buffett says "the 58 years we've been running Berkshire" (1965 + 58 = 2023), Greg Abel is on stage, and Buffett mentions that he recently went to Japan with Greg to visit the companies (April 2023) and that Berkshire now owns 7.4% of them. The clip starts in the middle of an answer, so the first question is not in the video.
 
 ---

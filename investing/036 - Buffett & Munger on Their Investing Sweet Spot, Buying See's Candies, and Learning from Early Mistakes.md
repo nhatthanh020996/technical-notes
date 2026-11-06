@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=JZ5Kkg4sVhM
 
+Recorded: 2017 Berkshire annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: How We Bought See's Candies For $25 Million". It is only partly accurate. The See's purchase price ($25 million net of cash, earning about $4 million pre-tax) is mentioned in passing. Most of the clip is about something else: what puts a business in Berkshire's "sweet spot" (a durable competitive advantage, a trusted manager, price), why See's was a judgment about lasting brand preference, Munger's admission that they would have walked away at a slightly higher price, how Munger talked the hesitant seller into going through with the sale, and how buying cheap, bad businesses early on taught them what to avoid. The clip is most likely from the **2017** Berkshire Hathaway annual meeting (high confidence). The clues: the question refers to the HBO documentary *Becoming Warren Buffett*, which aired in January 2017. Buffett also says See's would probably "not" be special "in the year 2017", meaning the year they were speaking in, and estimates that See's has earned close to $2 billion pre-tax since 1972.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

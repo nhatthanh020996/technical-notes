@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=1XsJiGVqKs0
 
+Recorded: 2019 Berkshire annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett Explains How Insurance Made Him A Billionaire". It is misleading: Buffett says nothing about his personal wealth or how he became a billionaire. He answers a question about what Berkshire's insurance business is worth. He explains float, says why a standalone insurer that is truly prepared for the worst case needs so much capital that it is not a good business, and says why Berkshire is the ideal home for the business. He then praises Tony Nicely (GEICO), Ajit Jain and other insurance managers, and says Berkshire has always paid its claims. He refuses to give a number for the value. The clip is most likely from the **2019** Berkshire annual meeting (high confidence). The clues: float of $124 billion; the new small-business online insurer "THREE", just started in four states and on show in the exhibit hall; and a $10 billion commitment made the day after a Saturday-morning phone call. That fits the Occidental Petroleum financing of late April 2019, about a week before the May 4, 2019 meeting. Tony Nicely is said to be in the audience. The clip ends with "Station five", the meeting's call for the next questioner.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

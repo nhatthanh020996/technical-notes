@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=IrtKb5kseGI
 
+Recorded: around 2000, Berkshire Hathaway annual meeting (low-moderate confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Most People Make This Mistake When Buying A House". It is misleading: the house question takes only the first three minutes, and nobody names a "mistake most people make". Buffett tells how he delayed buying a house so he could keep his capital invested, and Munger says the time to buy is when you need one. Most of the clip is about executive pay (and paying a lot for mediocrity) and about how to teach business valuation. The clip is a Q&A session at a Berkshire Hathaway annual meeting, most likely around **2000** (low–moderate confidence). The clues: directors are still paid $900 a year; campaign finance reform had been discussed "earlier" in the meeting (a hot topic around 2000–2002); and Munger picks "an internet company" as the impossible final-exam valuation question, which fits the dot-com era. The questioners from the audience are introduced by "zone", the format of the Omaha meeting.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

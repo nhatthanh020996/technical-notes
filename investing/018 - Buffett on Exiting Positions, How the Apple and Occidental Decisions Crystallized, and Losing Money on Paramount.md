@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=g2jSLsQQC4M
 
+Recorded: most likely 2024 Berkshire annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett Explains When You Must Sell Stocks". It is misleading: Buffett touches on reasons for exiting positions only in the first ~45 seconds (needing the money), and never gives a rule for when you "must" sell. Most of the clip is about how big *buy* decisions crystallize after years of accumulated knowledge (Nebraska Furniture Mart, See's, Apple, GEICO, Occidental), plus an admission that the Paramount investment was his alone and lost money. The clip is most likely from the **2024** Berkshire annual meeting (high confidence). The clues: Buffett announces that Berkshire has sold all of its Paramount stock (the stake was sold in early 2024); Charlie Munger (died November 2023) does not speak, and Greg Abel appears to join in on Occidental; Occidental and its CEO Vicki Hollub are discussed as an ongoing position with warrants ("options to buy more stock"); speculation that Ted [Weschler] or Todd [Combs] made the Paramount call.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

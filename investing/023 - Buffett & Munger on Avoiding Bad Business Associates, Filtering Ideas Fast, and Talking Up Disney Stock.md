@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=VRmGAzkBJPU
 
+Recorded: 1997 Berkshire annual meeting (moderate confidence; 1998 possible)
+
 > Note: The original YouTube title is "Charlie Munger: Avoid These Awful People Who Will Wreck Your Life And Career". It is misleading. Only the first minute and a half is about "awful people", and it is about choosing business associations (people who sell you a business or partner with you), not about your life and career in general. It is also not clear that Munger is the speaker in that part (see below). The rest of the clip is about filtering investment ideas (opportunity cost, understandability, a sustainable edge), walking away from auctions and renegotiators, and a question on whether Buffett's public praise of Disney makes it harder to buy more cheaply. The Disney question points to the **1997** Berkshire annual meeting (moderate confidence; 1998 is possible). The clues: the questioner refers to Buffett's 1995 annual report and to his remarks "at the '97 meeting" of Disney (February 1997), and to concern about "the Ovitz compensation package" (Michael Ovitz left Disney in December 1996 with a large severance); the meeting talk of a "shrinking universe of stocks" and "less margin of safety than ever" fits the high market of 1997. The clip appears to be edited from several answers; the first two parts have no date clues of their own and may come from the same meeting or a different one.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=_NyFNE-k_A8
 
+Recorded: compilation. Part 1: 2016 Berkshire annual meeting (high confidence); Part 2: undated, possibly 2016 or nearby (low confidence); Parts 3-4: 2016 Berkshire annual meeting (moderate-high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Why You Should Work For Yourself". It is misleading: Buffett says only one sentence about it ("my favorite employer was myself") at the very start. The clip is really about how lucky he and Munger feel at their ages, Munger's regret at not wising up faster, why they care about the microeconomics of each business, avoiding anchoring on previous conclusions, why Berkshire does little formal due diligence, and keeping negotiations simple and based on trust. It is a compilation of clips, most or all from Berkshire Hathaway annual meetings:
 > - Part 1 is most likely from the **2016** Berkshire annual meeting (high confidence). Buffett says "Charlie is 92, 85", which fits Munger (born January 1924) at 92 and Buffett (born August 1930) at 85 in May 2016, and Munger says "Now that I'm 92."
 > - Part 2 is undated (low confidence; possibly 2016 or nearby). There is a short follow-up exchange ("I see"), which is unusual for the annual meeting and could mean it comes from an interview or the journalist panel.

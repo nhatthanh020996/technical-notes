@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=IURoyiWIgIA
 
+Recorded: 2016 Berkshire Hathaway annual meeting (high confidence)
+
 > Note: The video's title is clickbait. Buffett never says that "buy and hold" is the worst strategy. The clip comes from the 2016 Berkshire Hathaway annual meeting (Clinton and Trump are mentioned as candidates). It starts in the middle of an answer, so the first question is not in the video.
 
 ---

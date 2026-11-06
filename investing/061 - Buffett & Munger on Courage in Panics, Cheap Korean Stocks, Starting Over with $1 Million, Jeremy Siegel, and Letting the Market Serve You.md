@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=Ng3g0YubCZU
 
+Recorded: 2006 Berkshire Hathaway annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Control Your Fear To Get Rich". It is misleading: there is no lesson about "controlling your fear" to get rich. Buffett says in the first minute that buying junk bonds in 2002 took the courage to act when others were petrified, and Munger answers that today there is far more competition. The rest of the clip covers what they would do starting over with $1 million (concentrate, e.g. in cheap Korean stocks), opportunity cost vs. modern portfolio theory, Munger's dismissal of Jeremy Siegel, and judging decisions by facts and reasoning instead of outcomes. The clip is from the **2006** Berkshire Hathaway annual meeting (high confidence). The clues: Buffett says his first partnership was formed "50 years ago" on May 4th, 1956, "two days ago Thursday", and May 4th fell on a Thursday in 2006; the questioners are called by numbered microphone; Korea stocks at three times earnings "two, three years ago" match Buffett's Korean purchases of 2004; Siegel's second book (*The Future for Investors*) came out in 2005.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

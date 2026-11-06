@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=YVcjHk4YGlY
 
+Recorded: most likely 2019 Berkshire annual meeting, 2018 possible (moderate confidence)
+
 > Note: The original YouTube title is "Charlie Munger: Why Picking Great Stocks Requires More Than Formulas". It is misleading. Only the first minute or so, which starts mid-answer, has Munger saying people want a formula ("physics envy") when you have to master general ideas and slowly improve your judgment. Most of the clip is Buffett: why it is hard for Berkshire to build multi-billion-dollar positions in China and abroad, and why he missed Amazon and Google while buying Apple. It also includes Munger's quips about the two of them being stupid in the same areas and about Ted and Todd fixing "age related stupidity". The clip is most likely from the **2019** Berkshire annual meeting (moderate confidence; 2018 is the main alternative). The clues: Ted [Weschler] and Todd [Combs] are already in place, and Munger credits them with fixing "age related stupidity at headquarters", which fits Berkshire's first Amazon purchase (made by one of them and disclosed just before the 2019 meeting); Buffett already owns Apple and calls not buying Amazon and Google a wrong decision; machines beating humans at Go (2016–2017) is mentioned as already happened; the airline industry has four big carriers, which fits Berkshire's airline holdings (2016–2020); the microphones are called "stations"; and Dr. Silber says he has come to the meeting for 23 years.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

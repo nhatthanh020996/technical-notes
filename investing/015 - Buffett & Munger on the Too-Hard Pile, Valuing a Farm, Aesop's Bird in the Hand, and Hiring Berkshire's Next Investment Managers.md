@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=ChNH4GlhibE
 
+Recorded: compilation. Parts 4-5: 2007 Berkshire annual meeting (high confidence); Part 2: plausibly around 2007 (low confidence); Parts 1 and 3: undated
+
 > Note: The original YouTube title is "Charlie Munger: How I Value Stocks". It is misleading on two counts. First, most of the video is Warren Buffett, not Munger: the farm example, Aesop's bird in the hand and the McDonald's stand are all Buffett's. Munger speaks only briefly (the too-hard pile, there being no mechanical method for intrinsic value, and the Mozart story). Second, the second half (from 05:20) is not about valuing stocks at all: it is Buffett answering a question about the search for younger investment managers to succeed him.
 >
 > The hiring section (Parts 4 and 5) is from the **2007** Berkshire annual meeting (high confidence). The clues: Buffett says Lou Simpson, who joined GEICO in 1979, has been "managing money for Geico now for 28 years roughly"; the search for a younger investment successor was announced in the 2006 annual report ("I probably didn't make that clear enough in the annual report"); and the GEICO caveman joke. Parts 1 to 3 are probably spliced from other answers. Part 2 is plausibly from the same period (corn and soybean prices "recently" good fits 2007), but this is not confirmed (low confidence). Part 1 could not be dated.

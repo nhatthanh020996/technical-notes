@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=8K7CcTQ8OQE
 
+Recorded: 2008 Berkshire Hathaway annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: How To Stop Wasting Your Life". It is misleading. Only one line is close to it: Buffett says it is "a terrible mistake to kind of sleepwalk through your life". The clip is really several separate Q&A answers. In the first, Buffett and Munger explain why they have a good mental attitude (they love their work and count their blessings) and joke about ignoring health habits. Next, they discuss why CEO pay is not a real market system. Then Buffett answers a German high-school student on choosing a career (find your passion, work for someone you admire, marry the right person). In the last answer, he tells how a Dale Carnegie course cured his fear of public speaking, in reply to a question about helping introverts. The clip is from the **2008** Berkshire Hathaway annual meeting (high confidence). The clues: Buffett says "Charlie's 84, I'm 77", which is only true in spring 2008; he mentions overflow rooms for "the 31,000" attendees; and questioner Nancy Ancowitz says she is writing a book for introverts (*Self-Promotion for Introverts* came out in 2009).
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.

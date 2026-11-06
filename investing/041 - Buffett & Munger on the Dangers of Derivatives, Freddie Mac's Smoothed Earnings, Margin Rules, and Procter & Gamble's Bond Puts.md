@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=b86etfOd808
 
+Recorded: compilation of Berkshire annual meetings. Parts 1-2: 2004 (moderate confidence); Parts 3-5: 1995 (moderate confidence); Part 6: 1994 (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Derivatives Could Trigger Massive Financial Collapse". It overstates what is said. Buffett predicts "some very big problems" within the next 10 years that derivatives will cause or make worse, and he calls them potentially "very disruptive to financial markets". He never predicts a "massive financial collapse". He also says Berkshire uses derivatives itself, that they "serve useful purposes" and that they "are not going to go away". The title also hides that this is a **compilation of answers from at least three different Berkshire annual meetings**, joined without any marker:
 >
 > - **Parts 1–2 (00:00 to about 04:30): most likely the 2004 meeting** (moderate confidence). Munger describes a mortgage portfolio that was hedged, after which more derivatives were used to smooth the lumpy results, with "eminent directors" on the board. This matches the Freddie Mac accounting scandal, whose details came out in mid-2003, after the 2003 meeting. Buffett also mentions Long-Term Capital (1998) and says Berkshire uses derivatives and gets them collateralized.

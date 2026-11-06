@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=eVkY4FQsCm8
 
+Recorded: most likely 2006 or 2007 (probably 2007), Berkshire Hathaway annual meeting (moderate confidence)
+
 > Note: The original YouTube title is "Warren Buffett: How To Rapidly Compound Your Small Portfolio". It is mostly misleading. Buffett says only that with small sums he would do very different things from Berkshire and could find high returns. He gives no method for compounding a small portfolio. The rest of the clip covers stocks vs bonds, his silver trade, and Ben Franklin. The clip is from a Berkshire Hathaway annual meeting, most likely 2006 or 2007, probably 2007 (moderate confidence). The clues: Buffett has already sold his silver, and the questioner mentions the silver exchange-traded fund, which launched in April 2006. Oil is quoted at $60–65. Poor Charlie's Almanack (2005) is quoted. The questions are numbered by microphone, as at the meetings of that era. The clip seems to be edited together. Part of the small-portfolio answer, and the question that the endowment / stocks-vs-bonds answer responds to, are missing.
 
 ---

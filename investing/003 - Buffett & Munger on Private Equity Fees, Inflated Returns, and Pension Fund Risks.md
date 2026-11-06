@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=r3_41Whvr1I
 
+Recorded: most likely 2019 Berkshire Hathaway annual meeting (moderate confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Private Equity Firms Are Typically Very Dishonest". It is somewhat exaggerated but not far off. Buffett does say that some private equity return calculations are not done in a way he would regard as honest, and Munger says the industry is "lying a little bit to make the money come in". He does not say private equity firms are "typically" dishonest. The clip most likely comes from the 2019 Berkshire Hathaway annual meeting: the questioner (Brandon) works for a pension fund in Winnipeg, and Buffett refers to the problems at the Omaha Public Schools retirement fund and to a U.S. stock market worth "something over 30 trillion". Confidence in the year: moderate.
 
 ---

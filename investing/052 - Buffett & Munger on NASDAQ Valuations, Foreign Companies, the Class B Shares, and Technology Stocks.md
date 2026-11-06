@@ -2,6 +2,8 @@
 
 Source: https://www.youtube.com/watch?v=gbL305MsyaM
 
+Recorded: most likely the 1996 Berkshire annual meeting (high confidence)
+
 > Note: The original YouTube title is "Warren Buffett: Market Valuations Don't Matter". It is misleading. Buffett does not say valuations don't matter. He says that silly prices in one part of the market (NASDAQ stocks at many times revenues) don't affect Berkshire, because it does not try to predict markets and only looks at individual businesses. Valuation is only the first of five questions in the clip. The others are about foreign companies, the new Class B shares, keeping out shareholders with unrealistic hopes, and why Berkshire avoids technology stocks. The clip is most likely from the **1996** Berkshire annual meeting (high confidence). The clues: the questioner cites the Class B offering prospectus (the B shares were issued in May 1996 to head off unit trusts), Buffett mentions Berkshire's 8% of Coca-Cola and 11% of Gillette, and he says about 1.2 million Class A shares were outstanding, each convertible into 30 B shares.
 >
 > Notation: `[word]` = added by editor for readability; `[...]` = speaker trails off; `[unclear: "..."]` = garbled in the captions, kept verbatim; `[speaker uncertain]` = attribution inferred.
