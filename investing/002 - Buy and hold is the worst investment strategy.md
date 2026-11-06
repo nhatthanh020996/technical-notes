@@ -89,7 +89,7 @@ I don't think it's because we've had the wrong leaders. They've been good on thi
 
 # Bản dịch tiếng Việt
 
-> Ghi chú: Tiêu đề video là giật tít. Buffett không hề nói "mua và nắm giữ" là chiến lược tệ nhất. Đoạn clip được cắt từ đại hội cổ đông Berkshire Hathaway năm 2016 (có nhắc đến hai ứng viên Clinton và Trump). Video bắt đầu giữa chừng một câu trả lời, nên câu hỏi đầu tiên không có trong video.
+> Ghi chú: Tiêu đề video là giật tít. Buffett không hề nói "buy and hold" là chiến lược tệ nhất. Đoạn clip được cắt từ đại hội cổ đông Berkshire Hathaway năm 2016 (có nhắc đến hai ứng viên Clinton và Trump). Video bắt đầu giữa chừng một câu trả lời, nên câu hỏi đầu tiên không có trong video.
 
 ## Phần 1: Doanh nghiệp vĩ đại không vĩ đại mãi
 
@@ -101,7 +101,7 @@ I don't think it's because we've had the wrong leaders. They've been good on thi
 
 **Charlie Munger:** Đúng, vì họ sợ bị coi là độc quyền quá mức.
 
-**Warren Buffett:** Vậy là thế giới thay đổi. Chúng tôi không thể thay đổi danh mục mỗi khi một doanh nghiệp kém lợi thế hơn trước một chút. Nhưng bạn phải luôn suy nghĩ xem có điều gì thực sự thay đổi cuộc chơi một cách lớn lao hay không. Điều đó không chỉ đúng với American Express, mà đúng với cả những thứ khác chúng tôi sở hữu, kể cả những công ty chúng tôi sở hữu 100%. Có lúc chúng tôi sẽ chậm chân, có lúc sẽ sai, nhưng cũng có lúc sẽ đúng. Không phải chúng tôi không nhận thức được các mối đe dọa. Nhưng đánh giá xác suất một mối đe dọa chỉ là vấn đề nhỏ, vấn đề lớn, hay vấn đề đe dọa sự sống còn là một trò chơi khó. Và chính điều đó làm công việc của chúng tôi thú vị.
+**Warren Buffett:** Vậy là thế giới thay đổi. Chúng tôi không thể thay đổi portfolio mỗi khi một doanh nghiệp kém lợi thế hơn trước một chút. Nhưng bạn phải luôn suy nghĩ xem có điều gì thực sự thay đổi cuộc chơi một cách lớn lao hay không. Điều đó không chỉ đúng với American Express, mà đúng với cả những thứ khác chúng tôi sở hữu, kể cả những công ty chúng tôi sở hữu 100%. Có lúc chúng tôi sẽ chậm chân, có lúc sẽ sai, nhưng cũng có lúc sẽ đúng. Không phải chúng tôi không nhận thức được các mối đe dọa. Nhưng đánh giá xác suất một mối đe dọa chỉ là vấn đề nhỏ, vấn đề lớn, hay vấn đề đe dọa sự sống còn là một trò chơi khó. Và chính điều đó làm công việc của chúng tôi thú vị.
 
 ---
 
@@ -151,9 +151,9 @@ Tôi không nghĩ đó là vì chúng ta có những nhà lãnh đạo tồi. H�
 
 **Warren Buffett:** Bạn có lựa chọn là các trường công lập rất tốt. Và đất nước này chi rất nhiều tiền cho giáo dục. Lấy ví dụ từ mẫu giáo đến lớp 12. Người ta hay nói về các khoản phúc lợi và than rằng thật tệ khi có đủ thứ phúc lợi cho An sinh Xã hội và các thứ khác. Thì chúng ta cũng có phúc lợi cho người trẻ đấy. Mỗi năm chúng ta chi 600 tỷ đô để giáo dục 50 triệu trẻ em trong các trường công từ mẫu giáo đến lớp 12. Hãy nghĩ về nó như một khoản phúc lợi. Dường như chẳng ai nhắc đến chuyện này. Tất nhiên là tôi ủng hộ nó. Trong một xã hội giàu có, những người trong độ tuổi lao động có nghĩa vụ với cả người trẻ lẫn người già. Với số tiền chúng ta chi ra, nếu hệ thống trường học có vấn đề thì không phải vì chúng ta keo kiệt. Có những vấn đề khác. Xét về số tiền bỏ ra, chúng ta thuộc hàng đầu.
 
-**Charlie Munger:** Tôi từng là thành viên hội đồng quản trị của một trường đại học có quỹ tài trợ tăng từ 8 triệu đô lên hơn 1 tỷ đô. Tôi chẳng thấy học phí giảm, cũng chẳng thấy số sinh viên tăng. Chẳng có gì tăng ngoài lương giáo sư. Từ 8 triệu lên 1 tỷ, mà những người điều hành ở đó đều là người rất, rất tử tế.
+**Charlie Munger:** Tôi từng là thành viên hội đồng quản trị của một trường đại học có endowment tăng từ 8 triệu đô lên hơn 1 tỷ đô. Tôi chẳng thấy học phí giảm, cũng chẳng thấy số sinh viên tăng. Chẳng có gì tăng ngoài lương giáo sư. Từ 8 triệu lên 1 tỷ, mà những người điều hành ở đó đều là người rất, rất tử tế.
 
-**Warren Buffett:** Khi bạn đọc số liệu quỹ tài trợ của các trường lớn, có những trường đã lên tới những con số thật sự khổng lồ, thì mục tiêu chính của những người quản lý quỹ là làm cho quỹ lớn thêm. Mãi mãi sẽ là như vậy. Con người vận hành theo cách đó. Ông còn bình luận gì nữa không, Charlie? Ông đã thấy nhiều rồi.
+**Warren Buffett:** Khi bạn đọc số liệu endowment của các trường lớn, có những trường đã lên tới những con số thật sự khổng lồ, thì mục tiêu chính của những người quản lý endowment là làm cho endowment lớn thêm. Mãi mãi sẽ là như vậy. Con người vận hành theo cách đó. Ông còn bình luận gì nữa không, Charlie? Ông đã thấy nhiều rồi.
 
 **Charlie Munger:** Tôi đã gây thù chuốc oán nhiều nhất mức mình kham nổi vào lúc này rồi.
 

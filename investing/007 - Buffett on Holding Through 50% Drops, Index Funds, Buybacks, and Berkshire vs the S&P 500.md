@@ -10,7 +10,7 @@ Source: https://www.youtube.com/watch?v=LvsQG28L3Yc
 
 *(The clip starts mid-answer. From the context, the question was whether this is a good time to buy stocks.)*
 
-**Warren Buffett:** I'm not recommending that people buy stocks today or tomorrow or next week or next month. I think it all depends on your circumstances. But in my view, you shouldn't buy stocks unless you expect to hold them for a very extended period, and you are prepared financially and psychologically to hold them the same way you would hold a farm, and never look at a quote. You don't need to pay attention to them.
+**Warren Buffett:** I'm not recommending that people buy stocks today or tomorrow or next week or next month. I think it all depends on your circumstances. But in my view, you shouldn't buy stocks unless you expect to hold them for a very extended period, and you are prepared financially and psychologically to hold them the same way you would hold a farm, and never look at46651996 a quote. You don't need to pay attention to them.
 
 You're not going to pick the bottom, and nobody else can pick it for you or anything of the sort. You've got to be prepared, when you buy a stock, to have it go down 50% or more and be comfortable with it, as long as you're comfortable with the holding.
 
